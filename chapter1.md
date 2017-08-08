@@ -1,3 +1,4 @@
-# First Chapter
+# Design Editor
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Description of Design Editor here
+
