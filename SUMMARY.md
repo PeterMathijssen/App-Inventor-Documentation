@@ -16,5 +16,6 @@
   * [Monetize](device-setup/monetize.md)
   * [Advanced](device-setup/advanced.md)
 * Tutorials
+  * [Creating Splash Screen](creating-splash-screen.md)
   * [AdMob monetization](admob-monetization.md)
 
