@@ -1,11 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* Editors
-* * [Design Editor](chapter1.md)
-* * [Blocks Editor](blocks-editor.md)
+* [1. Item 1](README.md)
+* [1.1 test 1.1](editors.md)
 * [Live Testing](device-setup.md)
-* [Device Setup](device-setup.md)
-
-
 
