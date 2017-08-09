@@ -18,9 +18,3 @@
   * [Monetize](device-setup/monetize.md)
   * [Advanced](device-setup/advanced.md)
 
-## Extensions
-
-* Exentions2
-
-## Tutorials
-
