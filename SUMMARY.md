@@ -18,4 +18,5 @@
 * Tutorials
   * [Creating Splash Screen](creating-splash-screen.md)
   * [AdMob monetization](admob-monetization.md)
+* [Extensions](extensions.md)
 
