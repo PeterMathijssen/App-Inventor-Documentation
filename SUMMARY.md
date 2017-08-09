@@ -15,4 +15,6 @@
   * [Visualization](device-setup/visualization.md)
   * [Monetize](device-setup/monetize.md)
   * [Advanced](device-setup/advanced.md)
+* Tutorials
+  * [AdMob monetization](admob-monetization.md)
 
