@@ -1,5 +1,9 @@
 # Privacy Policy Statement
 
+_**By**: Your-Name-- **Last update**: Date_
+
+
+
 Explain what is privacy policy; maybe under heading below
 
 #### What is Privacy Policy
@@ -13,6 +17,4 @@ explain why needed
 #### Template for Privacy Policy
 
 Some template
-
- 
 
