@@ -15,8 +15,9 @@
   * [Visualization](device-setup/visualization.md)
   * [Monetize](device-setup/monetize.md)
   * [Advanced](device-setup/advanced.md)
-* Tutorials
+* [Tutorials](tutorials.md)
   * [Creating Splash Screen](creating-splash-screen.md)
   * [AdMob monetization](admob-monetization.md)
+  * [Adding Privacy Policy](adding-privacy-policy.md)
 * [Extensions](extensions.md)
 
