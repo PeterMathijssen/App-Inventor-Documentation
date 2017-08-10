@@ -8,13 +8,9 @@ Explain what is privacy policy; maybe under heading below
 
 #### Why Privacy Policy Statement is Needed
 
+#### 
 
-
-#### Template for Privacy Policy 
-
-
-
-
+#### Template for Privacy Policy
 
 
 
