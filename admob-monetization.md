@@ -1,4 +1,4 @@
-# AdMob Monetizer
+# AdMob Monetization
 
 blah blah blah
 
