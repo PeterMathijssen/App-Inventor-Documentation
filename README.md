@@ -14,5 +14,5 @@ Block Editor is where you program for apps logic and its behavior. In this edito
 
 In design editor you visually select components and layout the apps screens layout. In block editor, those components will be available for programming. Each component type \(e.g. Button\), will have a set of pre-defined properties and event handlers which are presented in form of blocks.
 
-
+![](/assets/image012.png)
 
