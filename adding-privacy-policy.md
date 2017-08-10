@@ -1,8 +1,6 @@
 # Privacy Policy Statement
 
-_**By**: Your-Name-- **Last update**: Date_
-
-
+###### By: Your-Name-- Last update: Date
 
 Explain what is privacy policy; maybe under heading below
 
