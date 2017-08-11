@@ -1,4 +1,4 @@
 # Creating Splash Screen
 
-blah blah blah
+description here
 

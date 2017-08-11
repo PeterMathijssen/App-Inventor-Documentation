@@ -28,5 +28,6 @@
   * [Creating Splash Screen](creating-splash-screen.md)
   * [AdMob monetization](admob-monetization.md)
   * [Adding Privacy Policy](adding-privacy-policy.md)
+  * [keystore](keystore.md)
 * [Extensions](extensions.md)
 
