@@ -29,7 +29,7 @@
   * [Adding Privacy Policy](adding-privacy-policy.md)
   * [keystore](keystore.md)
   * [Monetization](monetization.md)
-    * [AdMob monetization2](monetization/admob-monetization2.md)
+    * [AdMob monetization](monetization/admob-monetization2.md)
   * [Storage](storage.md)
     * [SQLite](sqlite.md)
 * [Extensions](extensions.md)
