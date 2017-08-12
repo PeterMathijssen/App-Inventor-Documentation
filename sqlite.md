@@ -20,9 +20,17 @@ Next, we will insert some test-data into this table. Notice from image below:
 
 ![](/assets/book-sqlite4.png)
 
-Now, we will query data to display result:
+Now, we will query data to display result. The result will be in form of a LIST where 1st row will be the column headings.
 
 ![](/assets/book-sqlite5.png)
+
+If you wish to eliminate the column heading, just get the values starting from 2nd element of the LIST:
+
+![](/assets/book-sqlite6.png)
+
+Use link below to get .aia that can be loaded and test using http://Gold.AppyBuilder.com
+
+[http://AppyBuilder.com/tutorials/sqlite/SQLiteTest.aia](http://AppyBuilder.com/tutorials/sqlite/SQLiteTest.aia)
 
 
 
