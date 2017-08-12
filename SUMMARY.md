@@ -30,5 +30,7 @@
   * [keystore](keystore.md)
   * [Monetization](monetization.md)
     * [AdMob monetization2](monetization/admob-monetization2.md)
+  * [Storage](storage.md)
+    * [SQLite](sqlite.md)
 * [Extensions](extensions.md)
 
