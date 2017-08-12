@@ -26,8 +26,9 @@
     * [SQLite](device-setup/advanced/sqlite.md)
 * [Tutorials](tutorials.md)
   * [Creating Splash Screen](creating-splash-screen.md)
-  * [AdMob monetization](admob-monetization.md)
   * [Adding Privacy Policy](adding-privacy-policy.md)
   * [keystore](keystore.md)
+  * [Monetization](monetization.md)
+    * [AdMob monetization2](monetization/admob-monetization2.md)
 * [Extensions](extensions.md)
 
