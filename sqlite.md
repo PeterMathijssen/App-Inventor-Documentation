@@ -20,7 +20,9 @@ Next, we will insert some test-data into this table. Notice from image below:
 
 ![](/assets/book-sqlite4.png)
 
+Now, we will query data to display result:
 
+![](/assets/book-sqlite5.png)
 
 
 
