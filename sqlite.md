@@ -2,7 +2,7 @@
 
 SQLite component can be used to interface with the Android device built-in SQLite Relational Database Management System \(RDMBS\). Using this component, you'll be able to create complex data structures and create parent-child tables \(e.g. employer, employees\) and query data from 1 or multiple tables by joining tables together.
 
-In this tutorial, we'll show you simple steps to perform basic CRUD \(Create, Read, Update, Delete\) functions. For full functionality of SQLLite SQL commands, please refer to document [HERE](https://sqlite.org/lang.html).
+In this tutorial, we'll show you simple steps to perform basic CRUD \(Create, Read, Update, Delete\) functions. For full functionality of SQLLite SQL commands, please refer to document [HERE](https://sqlite.org/lang.html)
 
 SQLite component is a non-visible component that has blocks that you see in image blow:.
 
@@ -28,9 +28,7 @@ If you wish to eliminate the column heading, just get the values starting from 2
 
 ![](/assets/book-sqlite6.png)
 
-Use link below to get .aia that can be loaded and test using http://Gold.AppyBuilder.com
+Use link below to get .aia that can be loaded and test using [http://Gold.AppyBuilder.com](http://Gold.AppyBuilder.com)
 
 [http://AppyBuilder.com/tutorials/sqlite/SQLiteTest.aia](http://AppyBuilder.com/tutorials/sqlite/SQLiteTest.aia)
-
-
 
