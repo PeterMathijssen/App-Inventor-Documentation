@@ -1,6 +1,6 @@
 # AdMob Monetization
 
-In this tutorial, we'll show you how to easily monetize your apps using AdMob components.
+In this tutorial, we'll show you how to easily monetize your apps using **AdMob **component. The AdMob component is for creating Banner Ads.
 
 #### Assumption:
 
