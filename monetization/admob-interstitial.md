@@ -26,5 +26,13 @@ Next, Select Screen1 and set the Screen1 **Sizing **to **Responsive**:
 
 ![](/assets/book-admob-responsive.png)
 
+This component has blocks / events that are shown in image blow. **LoadAd **block is executed automatically on startup. If Ad is successfully loaded, the **AdLoaded **event will be triggered. DO NOT use LoadAd block in this event because it will create an infinite loop. If the Ad fails to load, then **AdFailedToLoad **will be triggered and you can check the Error or message parameters to inspect why Ad was not served
 
+**ShowInterstatialAd **block can be used to display the AD that was last loaded.
+
+**AdClosed **block, gets triggered when AD is closed. In this block, you can use LoadAd block to load the next ad and prepare for next AD display.
+
+![](/assets/book-admob-3.png)
+
+The AD can be displayed when changing screens or when user clicks a button. DO NOT encourage user to click in order to display the AD. Please follow Ad Guidance shown above
 
