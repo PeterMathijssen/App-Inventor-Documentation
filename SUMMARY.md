@@ -25,6 +25,8 @@
     * PushNotification
     * [SQLite](device-setup/advanced/sqlite.md)
 * [Tutorials](tutorials.md)
+  * [Basic](basic.md)
+    * Simulating Progress Bar
   * [Creating Splash Screen](creating-splash-screen.md)
   * [Adding Privacy Policy](adding-privacy-policy.md)
   * [keystore](keystore.md)
