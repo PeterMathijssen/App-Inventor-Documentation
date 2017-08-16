@@ -2,7 +2,7 @@
 
 ###### Extension Version: 1.0, Get it [HERE](http://community.appybuilder.com/t/about-the-extensions-category/2)
 
-This extension allows you to create **RadioButtons **either vertically \(default\) or horizontally within a **HorizontalArrangement **Layout. In this tutorial, we'll create a simple President-Quiz that will look like below. When each **Button **is clicked, we will check the response and show message using **Notifier **component. Get .apk HERE and .aia HERE![](/assets/TutRadioButtons.aia)![](/assets/radiobutton-1.png)
+This extension allows you to create **RadioButtons **either vertically \(default\) or horizontally within a **HorizontalArrangement **Layout. In this tutorial, we'll create a simple President-Quiz that will look like below. When each **Button **is clicked, we will check the response and show message using **Notifier **component. Get .apk HERE and .aia HERE![](/assets/radiobutton-1.png)
 
 Create a new project. Once project opens, in the **Design Editor**, select the Extensions category and import **RadioButtons **extension. Our sample quiz-app, has 3 questions, each having their own radiobutton possible answers. For each **RadioButtons **component, you can change the **TextColor **and **TextSize**. Customize is as you needed. Also, as shown in image BELOW, we use 3 HorizontalArrangement component. Each of these layouts will be used to hold one-set of responses as shown ABOVE. We use **Labels **to display quiz text and a **Button **to check answer and show status using a **Notifier **component.
 
