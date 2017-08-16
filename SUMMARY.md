@@ -29,6 +29,7 @@
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
     * [Creating Splash Screen](creating-splash-screen.md)
     * [Adding Privacy Policy](adding-privacy-policy.md)
+  * [RadioButtons](extensions/radiobuttons.md)
   * [keystore](keystore.md)
   * [Monetization](monetization.md)
     * [AdMob Banner](monetization/admob-monetization2.md)
@@ -36,5 +37,4 @@
   * [Storage](storage.md)
     * [SQLite](sqlite.md)
 * [Extensions](extensions.md)
-  * [RadioButtons](extensions/radiobuttons.md)
 

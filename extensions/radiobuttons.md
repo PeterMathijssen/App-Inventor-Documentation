@@ -1,6 +1,6 @@
-# RadioButtons
+# Presidents Quiz using RadioButtons
 
-###### Extension Version: 1.0, Get it [HERE](http://community.appybuilder.com/t/about-the-extensions-category/2)
+###### This tutorial uses RadioButtons extension that can be downloaded [HERE](http://community.appybuilder.com/t/about-the-extensions-category/2)
 
 This extension allows you to create **RadioButtons **either vertically \(default\) or horizontally within a **HorizontalArrangement **Layout. In this tutorial, we'll create a simple President-Quiz that will look like below. When each **Button **is clicked, we will check the response and show message using **Notifier **component. Get .apk HERE and .aia HERE![](/assets/radiobutton-1.png)
 
