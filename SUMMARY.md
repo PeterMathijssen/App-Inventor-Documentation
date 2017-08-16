@@ -36,6 +36,5 @@
     * [SQLite](sqlite.md)
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
-  * [RadioButtons](extensions/radiobuttons.md)
 * [Extensions](extensions.md)
 
