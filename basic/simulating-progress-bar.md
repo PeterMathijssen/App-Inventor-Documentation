@@ -1,4 +1,4 @@
-# Simulating progress 
+# Simulating Progress Bar
 
 ###### From: [iNetAjmer](http://community.appybuilder.com/u/inetajmer) - Last update: Aug, 15, 2017
 
