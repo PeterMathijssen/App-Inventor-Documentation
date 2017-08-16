@@ -36,4 +36,5 @@
   * [Storage](storage.md)
     * [SQLite](sqlite.md)
 * [Extensions](extensions.md)
+  * [RadioButtons](extensions/radiobuttons.md)
 
