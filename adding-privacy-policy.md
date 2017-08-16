@@ -1,8 +1,6 @@
 # Privacy Policy Statement
 
-###### By: \(Yaw Owusu Sarpong\) felixsarp - Last update: Aug, 11, 2017
-
-
+###### From: \(Yaw Owusu Sarpong\) felixsarp - Last update: Aug, 11, 2017
 
 _Use link _[_HERE_](https://app-privacy-policy-generator.firebaseapp.com/)_ to generate App Privacy or see template below_
 
