@@ -34,5 +34,11 @@ This component has blocks / events that are shown in image blow. **LoadAd **bloc
 
 ![](/assets/book-admob-3.png)
 
-The AD can be displayed when changing screens or when user clicks a button. DO NOT encourage user to click in order to display the AD. Please follow Ad Guidance shown above
+The AD can be displayed when changing screens or when user clicks a button. DO NOT encourage user to click in order to display the AD. Please follow Ad Guidance shown above.
+
+
+
+##### From [iNetAjmer](http://community.appybuilder.com/u/inetajmer) AppyBuilder Member
+
+You can also check the error message that may give some idea about the issue:![](/assets/AdMobBlocksErrorChecking.png)
 
