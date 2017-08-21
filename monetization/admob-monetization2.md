@@ -16,7 +16,7 @@ Please see AdMob video guide below. It is very important to follow their Terms o
 
 Create a new AppyBuilder project and name it TestAdmob
 
-Once Design Editor opens, from the left Category Palette, select the Monetize category, then drag the AdMob \(visible component\) and drop into the Layout. You are now able to select this Component \(2\), and change the Ad-Unit-ID property \(3\) in the Properties Palette. ![](/assets/bookAdMob1.png)
+Once Design Editor opens, from the left Category Palette, select the Monetize category, then drag the AdMob \(visible component\) and drop into the Layout. You are now able to select this Component \(2\), and change the Ad-Unit-ID property \(3\) in the Properties Palette. _**NOTE: For testing, you should use TEST AdUnitId. See link **_[_**HERE **_](https://developers.google.com/admob/android/test-ads)_**for these IDs. **_![](/assets/bookAdMob1.png)
 
 In addition, for the ADs to display, please ensure that you select Screen1 component, and then set the Sizing to Responsive:
 

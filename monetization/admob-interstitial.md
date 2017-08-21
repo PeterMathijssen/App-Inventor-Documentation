@@ -18,7 +18,7 @@ Create a new AppyBuilder project and name it TestAdmobFullScreen
 
 From Monetize category, drag-and-drop AdMobInterstitial onto layout screen
 
-![](/assets/book-admob-1.png)Select this component and for its designer AdUnitId, enter your AdUnitId:
+![](/assets/book-admob-1.png)Select this component and for its designer AdUnitId, enter your AdUnitId. _**NOTE: For testing, you should use TEST AdUnitId. See link **_[_**HERE **_](https://developers.google.com/admob/android/test-ads)_**for these IDs. **_![](/assets/bookAdMob1.png)
 
 ![](/assets/book-admob-2.png)
 
@@ -35,8 +35,6 @@ This component has blocks / events that are shown in image blow. **LoadAd **bloc
 ![](/assets/book-admob-3.png)
 
 The AD can be displayed when changing screens or when user clicks a button. DO NOT encourage user to click in order to display the AD. Please follow Ad Guidance shown above.
-
-
 
 ##### From [iNetAjmer](http://community.appybuilder.com/u/inetajmer) AppyBuilder Member
 
