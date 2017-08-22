@@ -1,10 +1,10 @@
 # AdMob Rewarded Video
 
-Rewarded video ads are full screen video ads that users have the option of watching in full in exchange for in-app rewards. 
+Rewarded video ads are full screen video ads that users have the option of watching in full in exchange for in-app rewards.
 
-You css can gee get ing info inform informs information about adv ano AdMob rewarded big video he here: 
+This is a non-visible component that can be found under Monetize category.
 
-This is a non-visible component that can be found under Monetize category.https://www.google.com/admob/monetize.html\#?monetize-tabset\_activeEl=rewarded-video
+More info here: [https://www.google.com/admob/monetize.html\#?monetize-tabset\_activeEl=rewarded-video](https://www.google.com/admob/monetize.html#?monetize-tabset_activeEl=rewarded-video)
 
 ![](/assets/rewardedvideo-1.png)
 
