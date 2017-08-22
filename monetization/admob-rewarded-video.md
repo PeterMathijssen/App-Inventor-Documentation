@@ -1,7 +1,5 @@
 # AdMob Rewarded Video
 
-_**This help is in-progress...**_
-
 Rewarded video ads are full screen video ads that users have the option of watching in full in exchange for in-app rewards.
 
 This is a non-visible component that can be found under Monetize category.
