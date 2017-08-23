@@ -1,10 +1,12 @@
 # AdMob Rewarded Video
 
-Rewarded video ads are full screen video ad that engages user and gives them option of watching it in full in exchange for in-app rewards. After watching the 10-30 second video-ad, app developers will earn revenue and app-user will be rewarded to such options as receiving game-coins for unlocking app-levels. More information about AdMob Rewarded Videos can be found here:
+**Rewarded video ads** are full screen video ad that engages user and gives them option of watching it in full in exchange for in-app rewards. After watching the 10-30 second video-ad, app developers will earn revenue and app-user will be rewarded to such options as receiving game-coins for unlocking app-levels. More information about AdMob Rewarded Videos can be found here:
 
 [https://www.google.com/admob/monetize.html\#?monetize-tabset\_activeEl=rewarded-video](https://www.gitbook.com/book/appybuilder/reference/edit#)
 
-AppyBuilder now includes this as a non-visible component that can be found under Monetize category:
+or by watching this video here: https://youtu.be/JRchxfbtxDA
+
+**AppyBuilder **now includes this as a non-visible component that can be found under Monetize category:
 
 ![](/assets/rewardedvideo-1.png)
 
