@@ -2,6 +2,7 @@
 
 * [AppyBuilder Introduction](README.md)
 * [AppyBuilder Editors](editors.md)
+* [Release Notes](release-notes.md)
 * [Components](device-setup.md)
   * [User Interface components](device-setup/user-interface-components.md)
   * [Layouts](device-setup/layouts.md)
