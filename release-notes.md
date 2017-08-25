@@ -32,7 +32,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-###### ![](blob:https://www.gitbook.com/3275b7ff-4b06-4255-9515-f5d82b60b166)  June 26, 2017 - Companion v3.13 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png)  June 26, 2017 - Companion v3.13 - AppyBuilder Gold
 
 Added ability to include PackageName as a Screen1 property. Can be used even for apps with multiple screens
 
@@ -64,7 +64,7 @@ _This is a non-component release, however it is a significant release because of
 
 ---
 
-###### ![](blob:https://www.gitbook.com/3275b7ff-4b06-4255-9515-f5d82b60b166) April 07, 2017 - Companion v3.08 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) April 07, 2017 - Companion v3.08 - AppyBuilder Gold
 
 * Sync with MIT AI nb154a and nb155
 * Make the Backpack persistent – If you leave AppyBuilder with blocks left in your backpack, they will be there the next time you login
