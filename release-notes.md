@@ -9,15 +9,11 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-
-
-###### ![](blob:https://www.gitbook.com/99c7c253-d416-4078-a036-c109f1a0986d) July 26, 2017 - Companion v3.16 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) July 26, 2017 - Companion v3.16 - AppyBuilder Gold
 
 * Bug fix - Creating new projects or even opening old projects, could’ve loaded some default extensions. This issue is now resolved.
 
 ---
-
-
 
 ###### ![](/assets/ab_icon.png) July 24, 2017 - Companion v3.15 - AppyBuilder Gold
 
@@ -29,16 +25,12 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-
-
 ###### ![](/assets/ab_icon.png) June 29, 2017 - Companion v3.14 - AppyBuilder Gold
 
 * Bug fix: Fixed crash for GoogleMap 
 * Fixed issue with companion crashing on some devices
 
 ---
-
-
 
 ###### ![](blob:https://www.gitbook.com/3275b7ff-4b06-4255-9515-f5d82b60b166)  June 26, 2017 - Companion v3.13 - AppyBuilder Gold
 
@@ -72,8 +64,6 @@ _This is a non-component release, however it is a significant release because of
 
 ---
 
-
-
 ###### ![](blob:https://www.gitbook.com/3275b7ff-4b06-4255-9515-f5d82b60b166) April 07, 2017 - Companion v3.08 - AppyBuilder Gold
 
 * Sync with MIT AI nb154a and nb155
@@ -83,11 +73,8 @@ _This is a non-component release, however it is a significant release because of
 * Webviewer now includes ability to upload files from local device
 
 * Webviewer now includes ability to take picture for directly uploading to server. From Designer, just set AllowCamera to true \(NOTE: You will need to drag-n-drop a Camera component for this to work\)
+
 * PasswordTextBox - Fixed Bug
 
 ![](https://lh3.googleusercontent.com/UZE-SYOLdf39xwQicXQAtgeGaRcNQ1IsJbs_9wF7WAmqemjFaKaXwtETtULSJVzz4jjjkXR_if2zAOskP39hbNn4lWaJFWB3GU_Bk6cdiioyWdLZ_h4PtibYqEBX8wjJvgdtSfw1)
-
-
-
-
 
