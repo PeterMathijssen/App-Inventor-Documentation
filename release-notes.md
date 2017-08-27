@@ -25,14 +25,14 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-###### ![](/assets/ab_icon.png) June 29, 2017 - Companion v3.14 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) June 29, 2017 - [Companion v3.14](/ https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * Bug fix: Fixed crash for GoogleMap 
 * Fixed issue with companion crashing on some devices
 
 ---
 
-###### ![](/assets/ab_icon.png)  June 26, 2017 - Companion v3.13 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png)  June 26, 2017 - [Companion v3.13](/ https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 Added ability to include PackageName as a Screen1 property. Can be used even for apps with multiple screens
 
@@ -64,7 +64,7 @@ _This is a non-component release, however it is a significant release because of
 
 ---
 
-###### ![](/assets/ab_icon.png) April 07, 2017 - Companion v3.08 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) April 07, 2017 - [Companion v3.08](/ https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * Sync with MIT AI nb154a and nb155
 * Make the Backpack persistent – If you leave AppyBuilder with blocks left in your backpack, they will be there the next time you login
