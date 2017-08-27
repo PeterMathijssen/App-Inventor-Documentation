@@ -2,20 +2,20 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order.
 
-###### ![](/assets/ab_icon.png) Aug 21, 2017 -  Companion v3.17 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) Aug 21, 2017 -  [Companion v3.17](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * New component - Added AdMob Rewards Video - This component can be found under Monetize category
 * New Component - Millenium Media Interstitial Ad - This component can be found under Montetize category
 
 ---
 
-###### ![](/assets/ab_icon.png) July 26, 2017 - Companion v3.16 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) July 26, 2017 - [Companion v3.16](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * Bug fix - Creating new projects or even opening old projects, could’ve loaded some default extensions. This issue is now resolved.
 
 ---
 
-###### ![](/assets/ab_icon.png) July 24, 2017 - Companion v3.15 - AppyBuilder Gold
+###### ![](/assets/ab_icon.png) July 24, 2017 - [Companion v3.15](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * Sound component - Added PlayRate
 * ListView component - AfterDeleting block now includes position \(of the deleted item - index\)
