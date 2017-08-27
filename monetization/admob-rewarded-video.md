@@ -4,9 +4,9 @@
 
 [https://www.google.com/admob/monetize.html\#?monetize-tabset\_activeEl=rewarded-video](https://www.gitbook.com/book/appybuilder/reference/edit#)
 
-or by watching this video here: https://youtu.be/JRchxfbtxDA
+or by watching this video here: [https://youtu.be/JRchxfbtxDA](https://youtu.be/JRchxfbtxDA)
 
-**AppyBuilder **now includes this as a non-visible component that can be found under Monetize category:
+[**AppyBuilder**](http://AppyBuilder.com)** **now includes this as a non-visible component that can be found under Monetize category:
 
 ![](/assets/rewardedvideo-1.png)
 
