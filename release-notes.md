@@ -2,6 +2,12 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order.
 
+![](/assets/ab_icon.png) Aug 29, 2017 - [Companion v3.17](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
+
+* Just a non-component release that included enhancement to Design Editor. It now includes Android phone background frame for the phone viewer 
+
+---
+
 ###### ![](/assets/ab_icon.png) Aug 21, 2017 -  [Companion v3.17](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * New component - Added AdMob Rewards Video - This component can be found under Monetize category
