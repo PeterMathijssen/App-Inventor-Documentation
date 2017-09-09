@@ -2,6 +2,25 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order.
 
+![](/assets/ab_icon.png) Aug 29, 2017 - [**Companion v3.18**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
+
+* Bug fix - Camera component update. Flash was not working on some devices. Now fixed
+* Bug fix - ListViewCustom - text now shows left-aliged instead of centered
+* Bug fix - ListViewCustom - Now can change FontSize
+* Feature - ListViewCustom - New block for changing image size
+* Feature - Spinner - now you can set background color
+* Feature - Spinner - now you ShowRadioButtons for it
+* Feature - UI - Minor UI/UX updates  
+* Feature - New Switch component
+* Feature - New RatingBar component
+* Feature - New 3D shadow effect BLOCK \(SetShadow\) for Label
+* Feature - New 3D shadow effect BLOCK \(SetShadow\) for TexBox 
+* Feature - New 3D shadow effect BLOCK \(SetShadow\) for CheckBox 
+* Feature - New 3D shadow effect BLOCK \(SetShadow\) for Button 
+* Feature - New 3D shadow effect BLOCK \(SetShadow\) for ListPicker 
+
+---
+
 ![](/assets/ab_icon.png) Aug 29, 2017 - [**Companion v3.17**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold - **Same as before, No need to re-install**
 
 * Just a non-component release that included enhancement to Design Editor. It now includes Android phone background frame for the phone viewer 
