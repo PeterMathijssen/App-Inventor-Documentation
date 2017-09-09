@@ -1,6 +1,6 @@
 # Using Switch Component
 
-A Switch is a User Interface two-state toggle component that can select between two options. The user may drag the "thumb" back and forth to choose the selected option, or simply tap to toggle as if it were a checkbox.
+A Switch is a User Interface two-state toggle component that can select between two options. The user may drag the "thumb" back and forth to choose the selected option, or simply tap to toggle as if it were a checkbox. Source can be downloaded from [HERE](http://AppyBuilder.com/tutorials/switch/Tut_Switch.aia).
 
 ![](/assets/tutSwitch3.png)
 
@@ -11,8 +11,4 @@ This component includes Designer properties that allows for changing the default
 ![](/assets/tutSwitch5.png)
 
 To implement the logic, we use blocks shown below. The Click event-block is used to capture taps. The Checked block is used to determine the Switch state \(checked or not checked\). IF -ELSE control-block is used to change Text, ThumbColor and TrackColor:![](/assets/tutSwitch4.png)
-
-
-
-
 
