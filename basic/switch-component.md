@@ -1,4 +1,4 @@
-# Using Switch Component
+# Switch Component
 
 A Switch is a User Interface two-state toggle component that can select between two options. The user may drag the "thumb" back and forth to choose the selected option, or simply tap to toggle as if it were a checkbox. \(Tutorial s_ource can be downloaded from _[_HERE_](http://AppyBuilder.com/tutorials/switch/Tut_Switch.aia)_.\)_
 

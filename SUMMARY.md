@@ -31,6 +31,7 @@
     * [Creating Splash Screen](creating-splash-screen.md)
     * [Adding Privacy Policy](adding-privacy-policy.md)
     * [Switch Component](basic/switch-component.md)
+    * [RatingBar component](basic/ratingbar-component.md)
   * [Monetization](monetization.md)
     * [AdMob Banner](monetization/admob-monetization2.md)
     * [AdMob Interstitial](monetization/admob-interstitial.md)
