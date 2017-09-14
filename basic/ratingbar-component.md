@@ -1,6 +1,12 @@
 # RatingBar Component
 
-A RatingBar is a component that shows a rating in stars. The user can touch/drag or use arrow keys to set the rating:![](/assets/tutRatingbar1.png)
+A RatingBar is a component that shows a rating in stars. The user can touch/drag or use arrow keys to set the rating:
+
+
+
+![](/assets/tutRatingbar1.png)
+
+
 
 This is a User Interface component that can be added to screen layout. It contains default properties such as number of stars, the current selection, color, etc:
 
