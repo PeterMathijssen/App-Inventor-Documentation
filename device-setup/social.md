@@ -1,4 +1,4 @@
-# Layout Components
+# Social Components
 
 ###### Under development
 

@@ -1,4 +1,4 @@
-# Layout Components
+# Sensors Components
 
 ###### Under development
 

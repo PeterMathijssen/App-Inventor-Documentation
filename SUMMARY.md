@@ -13,12 +13,10 @@
   * [Storage](device-setup/storage.md)
     * [File](device-setup/storage/file.md)
     * [FirebaseDB](device-setup/storage/firebasedb.md)
-    * FtpManager
+    * [FtpManager](device-setup/storage/ftpmanager.md)
     * [FusiontablesControl](device-setup/storage/fusiontablescontrol.md)
     * [TinyDB](device-setup/storage/tinydb.md)
     * [TinyWebDB](device-setup/storage/tinywebdb.md)
-  * [Connectivity](device-setup/connectivity.md)
-  * [LEGO® MINDSTORMS®](device-setup/lego-mindstorms.md)
   * [Visualization](device-setup/visualization.md)
   * [Advanced](device-setup/advanced.md)
     * [SQLite](device-setup/advanced/sqlite.md)
