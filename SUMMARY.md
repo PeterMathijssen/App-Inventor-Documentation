@@ -21,8 +21,6 @@
   * [LEGO® MINDSTORMS®](device-setup/lego-mindstorms.md)
   * [Visualization](device-setup/visualization.md)
   * [Advanced](device-setup/advanced.md)
-    * [KitchnSink](device-setup/advanced/kitchnsink.md)
-    * PushNotification
     * [SQLite](device-setup/advanced/sqlite.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
