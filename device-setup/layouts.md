@@ -5,9 +5,3 @@ plugins:
 
 
 
-```
-{% youtube %}Gg9u9STTYFY{% endyoutube %}
-```
-
-
-
