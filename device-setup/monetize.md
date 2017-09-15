@@ -1,4 +1,4 @@
 Monetize
 
-{{ 'https://www.youtube.com/watch?v=Gg9u9STTYFY' \| video }}
+{{ 'https://vimeo.com/31942602' \| video }}
 
