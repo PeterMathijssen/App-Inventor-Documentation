@@ -20,7 +20,6 @@
   * [Connectivity](device-setup/connectivity.md)
   * [LEGO® MINDSTORMS®](device-setup/lego-mindstorms.md)
   * [Visualization](device-setup/visualization.md)
-  * [Monetize](device-setup/monetize.md)
   * [Advanced](device-setup/advanced.md)
     * [KitchnSink](device-setup/advanced/kitchnsink.md)
     * PushNotification
