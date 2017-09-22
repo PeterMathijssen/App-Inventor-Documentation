@@ -1,21 +1,23 @@
 # Increasing Monetization Revenue {#privacy-policy-statement}
 
-###### From: \(Husain Al-Haboubi\) [habboubih](http://community.appybuilder.com/u/habboubih)- Last update: Sept. 20th, 2017 {#from-yaw-owusu-sarpong-felixsarp---last-update-aug-11-2017}
+###### From: \(Husain Al-Haboubi\) [habboubih](http://community.appybuilder.com/u/habboubih)- Last update: Sept. 21st, 2017 {#from-yaw-owusu-sarpong-felixsarp---last-update-aug-11-2017}
 
 In this article, I’ll go through some tips on how to improve your Admob revenue. Those tips will not necessarily show instant results. I will take some time so be patient!
 
 **1. Ad placement:**
 
-Use a variety of ad types \(Banners, Interstitial, Rewards …\). Try your best to locate banners where they’re far from buttons to avoid invalid clicks. Limit the number of banners to 1-2 per screen. If you want to add 2 banners in one screen, use the vertical scroll layout place banners where only one banner is visible at a time. Use Interstitial strategically. Like, show an Interstitial after performing a task. For instance, show Interstitial after a certain number of clicks on a button. Avoid too much Interstitial as they are annoying and will decrease impression RPM \(discussed below\). Award users for watching an Ad. Like giving them more features after reaching some number of watches \(points\).
+Use a variety of ad types \(Banners, Interstitial, Rewards …\). Try your best to locate banners where they’re far from buttons to avoid invalid clicks. Limit the number of banners to 1-2 per screen. If you want to add 2 banners in one screen, use the vertical scroll layout place banners where only one banner is visible at a time. Use Interstitial strategically. Like, show an Interstitial after performing a task. For instance, show Interstitial after a certain number of clicks on a button. Avoid too much Interstitial as they are annoying and will decrease RPM \(discussed below\). Award users for watching an Ad. Like giving them more features after reaching some number of watches \(points\). You must obey to Google Admob Policy. Otherwise, you WILL get your Admob account suspended and it is extremely difficult to get back the account.
 
-**2. User Admob Mediation**
+[https://support.google.com/admob/answer/6128543?hl=en](https://support.google.com/admob/answer/6128543?hl=en)
+
+**2. Use Admob Mediation**
 
 It is critical to use this awesome feature provided by Admob which will enable you to include more ad networks. Now with AppyBuilder, you are only allowed to include ad networks without SDKs \(SDK-less\)  
-To properly configure Admob Mediation, login to your Admob account, choose the app you want to configure, under Mediation, click “1 ad source”. Now click on “New Ad Network”. Start adding as much ad networks as possible. Please be aware that you can only choose ad networks with \(SKD-less\). Also, some ad networks require an account to be able to include them in the Admob mediation.
+To properly configure Admob Mediation, login to your Admob account, choose the app you want to configure, under Mediation, click “1 ad source”. Now click on “New Ad Network”. Start adding as much ad networks as possible. Please be aware that you can only choose ad networks with \(SDK-less\). Also, some ad networks require an account to be able to include them in the Admob mediation.
 
 **3. Advertise & publish**
 
-It is very important to spread the word about your app. Just putting it in Google Play will not help. Use Google Adwords, Facebook ads, Instagram ads, Twitter ads, and others. How much to spend? Well, a good strategy is to spend 33% of your last month’s net profit for advertisements. If your app is new, well you just need to spend pocket money. In the real world, new business would take up to 2 years to break-even. What’s break-even:
+It is very important to spread the word about your app. Just putting it in Google Play will not help. Use Google Adwords, Facebook ads, Instagram ads, Twitter ads, and others. How much to spend? Well, a good strategy is to spend 33% of your last month’s net profit for advertisements. If your app is new, well you just need to spend pocket money. In the real world, a new business would take up to 2 years to break-even. What’s break-even:
 
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Break-even)
 
@@ -35,15 +37,15 @@ Today we are going to talk about the alternative app stores if you can’t acces
 
 **4. Pay attention to reviews:**
 
-I am not sure about this, but I’ve read some articles that says reviews may affect your ad earnings. So bad reviews will result in low revenue and vice versa.  
-So you really need to provide quality apps with good designs to get good reviews. Pay attention to reported bugs, suggestions and reply to bad reviews \(less than 4 stars\)
+I am not sure about this, but I’ve read some articles stating that reviews and ratings may affect your ad earnings and drag down RPM. So bad reviews may result in low revenue and vice versa.  
+You really need to provide quality apps with good designs to get good reviews. Pay attention to reported bugs, suggestions and reply to bad reviews \(less than 4 stars\)
 
 **5. Impression RPM**
 
 Definition: Revenue per 1000 impressions \(RPM\); the estimated earnings accrued for every 1000 impressions an ad receives.  
 Impression RPM doesn’t represent how much an ad actually earned; rather, it’s calculated by dividing estimated earnings by the number of impressions received, then multiplying by 1000.  
 Impression RPM = \( Estimated earnings / \# of impressions \) \* 1000  
-The most effective way to increase impression RPM is to target countries with high RPM. Those counties include, but not limited to, USA, Canada, UK, Germany, Australia, France, Swaziland, Japan and Denmark.  
+The most effective way to increase impression RPM is to target countries with high RPM. Those counties include, but not limited to, USA, Canada, UK, Germany, Australia, France, Switzerland, Japan and Denmark.  
 So in your advertisement campaigns, include those countries and exclude all other countries.
 
 **6. Update App Frequently**
