@@ -5,21 +5,6 @@
 * [Release Notes](release-notes.md)
 * [Components](device-setup.md)
   * [User Interface components](device-setup/user-interface-components.md)
-  * [Layouts](device-setup/layouts.md)
-  * [Media](device-setup/media.md)
-  * [Drawing and Animation](device-setup/drawing-and-animation.md)
-  * [Sensors](device-setup/sensors.md)
-  * [Social](device-setup/social.md)
-  * [Storage](device-setup/storage.md)
-    * [File](device-setup/storage/file.md)
-    * [FirebaseDB](device-setup/storage/firebasedb.md)
-    * [FtpManager](device-setup/storage/ftpmanager.md)
-    * [FusiontablesControl](device-setup/storage/fusiontablescontrol.md)
-    * [TinyDB](device-setup/storage/tinydb.md)
-    * [TinyWebDB](device-setup/storage/tinywebdb.md)
-  * [Visualization](device-setup/visualization.md)
-  * [Advanced](device-setup/advanced.md)
-    * [SQLite](device-setup/advanced/sqlite.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
@@ -37,4 +22,6 @@
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
 * [Extensions](extensions.md)
+
+
 
