@@ -3,6 +3,8 @@
 * [AppyBuilder Introduction](README.md)
 * [AppyBuilder Editors](editors.md)
 * [Release Notes](release-notes.md)
+* [Components](components.md)
+  * [Switch](components/switch.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
