@@ -8,6 +8,7 @@
   * [GalleryViewer](components/galleryviewer.md)
   * [RatingBar](components/ratingbar.md)
   * [SQLite](components/sqlite.md)
+  * [ListViewCustom](components/listviewcustom.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
