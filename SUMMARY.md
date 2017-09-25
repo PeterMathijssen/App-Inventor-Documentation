@@ -5,6 +5,7 @@
 * [Release Notes](release-notes.md)
 * [Components](components.md)
   * [Switch](components/switch.md)
+  * [GalleryViewer](components/galleryviewer.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
