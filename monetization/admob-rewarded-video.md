@@ -1,40 +1,10 @@
 # AdMob Rewarded Video
 
-**Rewarded video ads** are full screen video ad that engages user and gives them option of watching it in full in exchange for in-app rewards. After watching the 10-30 second video-ad, app developers will earn revenue and app-user will be rewarded to such options as receiving game-coins for unlocking app-levels. More information about AdMob Rewarded Videos can be found here:
+**Rewarded video ads** are full screen video ad that engages user and gives them option of watching it in full in exchange for in-app rewards. After watching the 10-30 second video-ad, app developers will earn revenue and app-user will be rewarded to such options as receiving game-coins for unlocking app-levels. 
 
-[https://www.google.com/admob/monetize.html\#?monetize-tabset\_activeEl=rewarded-video](https://www.gitbook.com/book/appybuilder/reference/edit#)
+The video below shows an example video on how to use AdMob Rewarded Video component:
 
-or by watching this video here: [https://youtu.be/JRchxfbtxDA](https://youtu.be/JRchxfbtxDA)
+!\[\]\(https://i1.wp.com/AppyBuilder.com/img/pixiibomb3.png\)\*\*By: \[Pixii Bomb\]\(http://community.appybuilder.com/t/admob-component-monetize-your-app-using-an-admob-banner-make-money/1313\)\*\*
 
-[**AppyBuilder**](http://AppyBuilder.com)** **now includes this as a non-visible component that can be found under Monetize category:
-
-![](/assets/rewardedvideo-1.png)
-
-This component requires setting up an AdMob Ad Unit Id that is specifically setup for Rewarded Video. You can setup a new AdUnitId by logging into your AdMob account. _**NOTE:** For testing, you should use TestID so that you can test-out functionality of your app. You can use test-ID of ca-app-pub-3940256099942544/5224354917_.
-
-From Designer, you can enter an AdUnitId \(see below\). This will auto-load and prepare the AD for display.
-
-![](/assets/reward4.png)
-
-Once AD is loaded, it will trigger the **RewardedVideo.AdLoaded **event-block. In this block. If the AD fails to load, it will trigger the **RewardedVideo.AdFailedToLoad** event-block which will include the error-code and the error-message, showing why the AD was not loaded was not loaded
-
-![](/assets/reward7.png)
-
-If the AD is loaded successfully, it meas that it is now ready to display. You now can use RewardedVideo.ShowAd to display the video-AD.
-
-![](/assets/reward8.png)
-
-The user will now be presented with the Video-AD.  The AD will include a count-down timer showing how many seconds of the AD is left. If the user watches the entire video, it will trigger the RewardedVideo.Rewarded event-block. This block will include the 'type' and 'amount' parameter which will include the values that was entered in the AdMob dashboard.
-
-![](/assets/reward9.png)
-
-To prepare the AD for next showing, the AD has to be loaded again using **RewardedVideo.LoadAd **block. A good place to reload the AD is to use the RewardedVideo.AdClosed event-block. This block gets triggered when user closes the video-AD.
-
-![](/assets/reward10.png)
-
-##### 
-
-### 
-
-
+{% youtube %}https://www.youtube.com/watch?v=-2Mp9CxxNnk{% endyoutube %}
 
