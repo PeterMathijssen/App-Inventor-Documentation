@@ -3,8 +3,6 @@
 * [AppyBuilder Introduction](README.md)
 * [AppyBuilder Editors](editors.md)
 * [Release Notes](release-notes.md)
-* [Components](device-setup.md)
-  * [User Interface components](device-setup/user-interface-components.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
@@ -22,6 +20,4 @@
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
 * [Extensions](extensions.md)
-
-
 
