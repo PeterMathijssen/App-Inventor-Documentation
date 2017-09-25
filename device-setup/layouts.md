@@ -1,6 +1,0 @@
-# Layout Components
-
-###### Under development
-
-
-

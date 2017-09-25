@@ -1,6 +1,0 @@
-# Sensors Components
-
-###### Under development
-
-
-

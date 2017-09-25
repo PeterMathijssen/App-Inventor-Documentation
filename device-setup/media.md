@@ -1,6 +1,0 @@
-# Media Components
-
-###### Under development
-
-
-
