@@ -1,8 +1,8 @@
 # Summary
 
 * [AppyBuilder Introduction](README.md)
-* [AppyBuilder Editors](editors.md)
 * [Release Notes](release-notes.md)
+* [AppyBuilder Editors](editors.md)
 * [Components](components.md)
   * [Switch](components/switch.md)
   * [GalleryViewer](components/galleryviewer.md)
