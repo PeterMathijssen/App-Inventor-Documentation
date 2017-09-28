@@ -2,7 +2,7 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order.
 
-![](/assets/ab_icon.png) Sept. 28, 2017 [**Companion v3.19**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold -- _**will shortly be available in Google Play Store **_
+![](/assets/ab_icon.png) Sept. 28, 2017 [**Companion v3.19**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold_** **_
 
 * Feature - **Label**: now has _Click_ events can be used to simulate tabs
 * Feature - **Label**: now has _LongClick_ events
