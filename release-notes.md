@@ -1,6 +1,8 @@
 # Release Notes
 
-This page lists AppyBuilder Release dates / notes in reverse chronological order.
+This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
+
+
 
 ![](/assets/ab_icon.png) Sept. 28, 2017 [**Companion v3.19**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold_** **_
 
