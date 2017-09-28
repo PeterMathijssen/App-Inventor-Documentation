@@ -9,7 +9,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **Label**: now has _LongClick_ events
 * Feature - **ListViewCustom**: now can accept\_ SIMPLE html text
   \_
-* Feature - New **OneSignalPush** notification component \(Advanced category\)
+* Feature - New **OneSignalPush** notification component \(Advanced category\) -- _**will put tutorial together by Sept 30th**_
 * Feature - **Label**: _Designer_ now provides draggable text-entry for entering text
   . This will be useful when entering long text in designer
 * Feature - **TextBox**: _Designer_ now provides draggable text-entry for entering text
@@ -17,6 +17,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
   . This will be useful when entering long text in designer
 
 * Feature - **CheckBox**: Added _CheckboxColor_ property & block \(default Dark Gray\)
+
 * Enhancement - **Spinner**: Made spacing between drop-down items wider \(when ShowRadioButton is false\)
 * Feature - Added **Windows USB Live Testing** ability. Download **Windows** executable from [**HERE**](http://AppyBuilder.com/companion/AppyBuilderStarterSetup.msi)\*\*
   . \*\*Running executer, will install AppyBuilder-installer-app into "C:\Program Files \(x86\)\AppyBuilder Starter" folder. It will also create a shortcut on your Desktop: ![](/assets/StarterApp3.png)
