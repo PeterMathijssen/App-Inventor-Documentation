@@ -2,8 +2,6 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
-
-
 ![](/assets/ab_icon.png) Sept. 28, 2017 [**Companion v3.19**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold_** **_
 
 * Feature - **Label**: now has _Click_ events can be used to simulate tabs
@@ -14,7 +12,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **TextBox**: _Designer_ now provides draggable text-entry for entering text. This will be useful when entering long text in designer
 * Feature - **CheckBox**: Added _CheckboxColor_ property & block \(default Dark Gray\)
 * Enhancement - **Spinner**: Made spacing between drop-down items wider \(when ShowRadioButton is false\)
-* Feature - Added **Windows USB Live Testing** ability. Download **Windows** executable from [**HERE**](http://AppyBuilder.com/companion/AppyBuilderStarterSetup.msi). Running executer, will install AppyBuilder-installer-app into "\_**C:\Program Files \(x86\)\AppyBuilder Starte**\_r" folder. It will also create a shortcut on your Desktop: ![](/assets/StarterApp3.png)
+* Feature - Added **Windows USB Live Testing** ability. Download **Windows** executable from [**HERE**](http://AppyBuilder.com/companion/AppyBuilderStarterSetup.msi). Running executer, will install AppyBuilder-installer-app into "**C:\Program Files \(x86\)\AppyBuilder Starter**" folder. It will also create a shortcut on your Desktop: ![](/assets/StarterApp3.png)
 * BugFix - **WebViewer** _geolocation_ was not working properly
 * BugFix: **ListViewCustom** _AfterDeleting_ was returning a zero-based position of deleted-item. Its been updated so that it is now starts from 1. See [**HERE**](http://community.appybuilder.com/t/custom-listview/1402/20) for details
 * Documentation: **GalleryViewer** _AfterPicking_ block. Fixed block tooltip
