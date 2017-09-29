@@ -4,7 +4,7 @@ AppyBuilder provides you drag-and-drop interface for designing and building your
 
 To perform Live Testing / Development, you'll require AppyBuilder companion app. The companion app can be found in Google Play Store. Follow link [HERE ](https://help.appybuilder.com/release-notes.html)which includes the version of the companion app.
 
-Once you install AppyBuilder companion app, you'll need to connect it to your computer. 
+Once you install AppyBuilder companion app, you'll need to connect it to your computer.
 
 **NOTE: **If you have already run the App Inventor companion app, you have to KILL the companion app and / or from your Windows Task Manager, kill adb.exe
 
@@ -12,10 +12,10 @@ Currently, there are 2 approaches for Live Testing / Development:
 
 ##### 1. Connection through WiFi
 
-You'll need to connect both your computer and your device to the SAME WiFi Network. 
+You'll need to connect both your computer and your device to the SAME WiFi Network.
 
 * Start your companion app
-* Goto http://Gold.AppyBuilder.com
+* Goto [http://Gold.AppyBuilder.com](http://Gold.AppyBuilder.com)
 * Either open existing app or start a new one
 * From menu select Connect, then Live Testing: 
 
@@ -29,5 +29,5 @@ You'll need to connect both your computer and your device to the SAME WiFi Netwo
 
 ##### 2. Connection using USB
 
-Currently, the USB option only works for Windows OS. Download AppyBuilder-Starter-app from [**HERE**](http://appybuilder.com/companion/AppyBuilderStarterSetup.msi). 
+Currently, the USB option only works for Windows OS. Download AppyBuilder-Starter-app from [**HERE**](http://appybuilder.com/companion/AppyBuilderStarterSetup.msi). This is an installer package that includes the files required connect your device, through USB to your Windows computer. Run the setup. The setup will install the files onto  
 
