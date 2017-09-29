@@ -3,6 +3,7 @@
 * [AppyBuilder Introduction](README.md)
 * [Release Notes](release-notes.md)
 * [AppyBuilder Editors](editors.md)
+* [Live Testing](live-testing.md)
 * [Components](components.md)
   * [Switch](components/switch.md)
   * [GalleryViewer](components/galleryviewer.md)
