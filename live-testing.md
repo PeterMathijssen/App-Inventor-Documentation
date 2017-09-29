@@ -29,5 +29,18 @@ You'll need to connect both your computer and your device to the SAME WiFi Netwo
 
 ##### 2. Connection using USB
 
-Currently, the USB option only works for Windows OS. Download AppyBuilder-Starter-app from [**HERE**](http://appybuilder.com/companion/AppyBuilderStarterSetup.msi). This is an installer package that includes the files required connect your device, through USB to your Windows computer. Run the setup. The setup will install the files onto  
+Currently, the USB option only works for Windows OS. 
+
+* Download AppyBuilder-Starter-app from [**HERE**](http://appybuilder.com/companion/AppyBuilderStarterSetup.msi). This is an installer package that includes the files required connect your device, through USB to your Windows computer. Run the setup. The setup will install the files onto "**C:\Program Files \(x86\)\AppyBuilder Starter"** folder. It will also place "AppyBuilder Starter" shortcut on your Desktop: ![](/assets/StarterApp3.png) .
+
+* Connect your phone using USB cable to your computer. 
+* Enable [USB debugging](https://www.google.com/search?q=android+turn+on+usb+debugging&oq=android+turn+on+usb+debugging)
+* Start AppyBuilder-Starter app
+* From AppyBuilder menu, select Connect, then USB:
+
+ ![](/assets/connectUsb1.png)
+
+This action should automatically startup your companion and establish connection for Live Testing / Development. 
+
+
 
