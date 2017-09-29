@@ -6,7 +6,7 @@ To perform Live Testing / Development, you'll require AppyBuilder companion app.
 
 Once you install AppyBuilder companion app, you'll need to connect it to your computer.
 
-**NOTE/Troubleshooting: **If you have already run the App Inventor companion app, you have to KILL the companion app and / or from your Windows Task Manager, kill adb.exe
+**NOTE/Troubleshooting: **Please refer to end of this article for connection issues and troubleshooting
 
 Currently, there are 2 approaches for Live Testing / Development:
 
@@ -36,10 +36,22 @@ Currently, the USB option only works for Windows OS.
 * Connect your phone using USB cable to your computer.
 
 * Enable [USB debugging](https://www.google.com/search?q=android+turn+on+usb+debugging&oq=android+turn+on+usb+debugging)
+
 * Start AppyBuilder-Starter app
 * From AppyBuilder menu, select Connect, then USB:
 
   ![](/assets/connectUsb1.png)
 
-This action should automatically startup your companion and establish connection for Live Testing / Development.
+This action should automatically startup your companion and establish connection for Live Testing / Development:
+
+![](/assets/connect2.png)
+
+##### Connection Issues / Trouble shooting
+
+If your companion does not connect:
+
+* Ensure that you don't have MIT AI companion app running in background. You'll need to KILL that companion rather than just closing it.
+* If you are using the USB connection, from your Windows task manager, KILL adb.exe, the refresh browser, and try to reconnect to starter app
+
+
 
