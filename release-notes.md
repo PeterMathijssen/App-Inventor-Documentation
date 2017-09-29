@@ -12,7 +12,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **TextBox**: _Designer_ now provides draggable text-entry for entering text. This will be useful when entering long text in designer
 * Feature - **CheckBox**: Added _CheckboxColor_ property & block \(default Dark Gray\)
 * Enhancement - **Spinner**: Made spacing between drop-down items wider \(when ShowRadioButton is false\)
-* Feature - Added **Windows USB Live Testing** ability. Download **Windows** executable from [**HERE**](http://AppyBuilder.com/companion/AppyBuilderStarterSetup.msi). Running executer, will install AppyBuilder-installer-app into "**C:\Program Files \(x86\)\AppyBuilder Starter**" folder. It will also create a shortcut on your Desktop: ![](/assets/StarterApp3.png)
+* Feature - Added **Windows USB Live Testing** ability. Download **Windows** executable from [**HERE**](http://AppyBuilder.com/companion/AppyBuilderStarterSetup.msi). Running executer, will install AppyBuilder-installer-app into "**C:\Program Files \(x86\)\AppyBuilder Starter**" folder. It will also create a shortcut on your Desktop: ![](/assets/StarterApp3.png) Follow setup direction [**HERE**](https://help.appybuilder.com/live-testing.html)
 * BugFix - **WebViewer** _geolocation_ was not working properly
 * BugFix: **ListViewCustom** _AfterDeleting_ was returning a zero-based position of deleted-item. Its been updated so that it is now starts from 1. See [**HERE**](http://community.appybuilder.com/t/custom-listview/1402/20) for details
 * Documentation: **GalleryViewer** _AfterPicking_ block. Fixed block tooltip
