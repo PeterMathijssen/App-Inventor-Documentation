@@ -7,7 +7,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **Label**: now has _Click_ events can be used to simulate tabs
 * Feature - **Label**: now has _LongClick_ events
 * Feature - **ListViewCustom**: now can accept SIMPLE html text 
-* Feature - New **OneSignalPush** notification component \(Advanced category\) -- _**will put tutorial together by Sept 30th**_
+* Feature - New **OneSignalPush** notification component \(Advanced category\) -- See component tutorial [HERE](https://help.appybuilder.com/components/onesignalpush.html)
 * Feature - **Label**: _Designer_ now provides draggable text-entry for entering text. This will be useful when entering long text in designer
 * Feature - **TextBox**: _Designer_ now provides draggable text-entry for entering text. This will be useful when entering long text in designer
 * Feature - **CheckBox**: Added _CheckboxColor_ property & block \(default Dark Gray\)
