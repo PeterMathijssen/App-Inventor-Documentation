@@ -66,6 +66,9 @@ The complete documentation can be found [HERE](https://documentation.onesignal.c
 ![](/assets/push1.png)
 
 * Select NEXT and you'll be able to send the notification either immediately, or schedule it for sending. 
+* Once messages are sent, you'll be able to track and view how many users have responded by viewing your messages:
+
+![](/assets/push10.png)
 
 
 
