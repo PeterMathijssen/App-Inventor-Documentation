@@ -35,7 +35,7 @@ Currently, the USB option only works for Windows OS.
 
 * Connect your phone using USB cable to your computer.
 
-* Enable [USB debugging](https://www.google.com/search?q=android+turn+on+usb+debugging&oq=android+turn+on+usb+debugging)
+* Enable [**USB debugging**](https://www.kingoapp.com/root-tutorials/how-to-enable-usb-debugging-mode-on-android.htm)
 
 * Start AppyBuilder-Starter app
 
