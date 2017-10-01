@@ -51,8 +51,8 @@ This action should automatically startup your companion and establish connection
 
 If your companion does not connect:
 
-* Ensure that you don't have MIT AI companion app running in background. You'll need to KILL that companion rather than just closing it.
-* If you are using the USB connection, from your Windows task manager, KILL adb.exe, the refresh browser, and try to reconnect to starter app
+* Ensure that you DO NOT have MIT AI companion app running in background. You'll need to KILL that companion rather than just closing it.
+* If you are using the USB connection, from your Windows task manager, **KILL adb.exe**, the refresh browser, and try to reconnect to starter app
 
 
 
