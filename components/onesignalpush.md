@@ -57,7 +57,7 @@ The complete documentation can be found [HERE](https://documentation.onesignal.c
 
 ![](/assets/push7.png)
 
-* Next, you can enter optional information, such as "Large Icon" and "Big Picture". See 3rd image below to see where these images display on user's device. Also, you'll be able to enter "Launch URL". This URL will be opened IF the user taps on your notification
+* Next, you can enter optional information, such as "Large Icon" and "Big Picture". See 3rd image below to see where these images display on user's device. Also, you'll be able to enter an optional URL using "Launch URL". This URL will be opened IF the user taps on your notification. If URL is NOT entered, then once user taps on notification, your app will automatically open on user's device.
 
 ![](/assets/push8.png)
 
@@ -69,6 +69,4 @@ The complete documentation can be found [HERE](https://documentation.onesignal.c
 * Once messages are sent, you'll be able to track and view how many users have responded by viewing your messages:
 
 ![](/assets/push10.png)
-
-
 
