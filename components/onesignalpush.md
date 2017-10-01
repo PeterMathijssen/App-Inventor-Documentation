@@ -2,7 +2,7 @@
 
 A push notification is a message that pops up on a mobile device. App publishers can send them at any time; users don't have to be in the app or using their devices to receive them. They can do a lot of things; for example, they can show the latest news scores, get a user to take an action, such as downloading an app, or let a user know about an event. Push notifications look like SMS text messages and mobile alerts, but they only reach users who have installed your app.
 
-**AppyBuilder **now includes a non-visible component called **OneSignalPush **that can be used in the app for receiving push messages. Once setup up, you can easily push messages to anyone who has installed your app.  Users will receive the notification, even if the app is closed. The notification will appear in the device status bar and the app icon will automatically be updated to indicate that it it has received a notification:
+[**AppyBuilder**](http://AppyBuilder.com)** **now includes a non-visible component called **OneSignalPush **that can be used in the app for receiving push messages. Once setup up, you can easily push messages to anyone who has installed your app.  Users will receive the notification, even if the app is closed. The notification will appear in the device status bar and the app icon will automatically be updated to indicate that it it has received a notification:
 
 ![](/assets/push2.png)
 
