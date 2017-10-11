@@ -16,7 +16,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **Checkbox **component - Changed event: Now includes '_**isChecked**_' parameter that indicates if Switch is Checked or Unchecked
 * Bugfix - Fixed scrolling issue, in both Designer and Blocks-editor:  [http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3](http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3)
 * Feature - Added **EXPERIMENTAL LinedTextBox **component. This is same as TextBox component, however, it includes notepad like lines and is always multiline
-* Bugfix - **OneSignalPush **- some devices were seeing issues at certain times when push message was received. Issue is now fixed
+* Bugfix - **OneSignalPush **- some devices were experiencing issues at certain times when push message was received. Issue is now fixed
 
 ---
 
