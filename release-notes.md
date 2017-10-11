@@ -9,11 +9,11 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Bugfix - **Chrome **latest update \(61\) introduced issue with drop-down position of pop-up menus. This was observed when in Design Editor. Issue resolved
 * Feature - **KitchenSink**: Now includes block _**IsKeyboardOpen**_
   \*\*
-* Feature - **VideoPlayer**: Added **ControlsEnabled **peroperty / block. Allows you to show/hide the controls. By default, its set to enabled
+* Feature - **VideoPlayer**: Added **ControlsEnabled **_peroperty / block_. Allows you to show/hide the controls. By default, its set to enabled
 * Feature - **UI **- Added ability to preview media
 * Feature - **UI**: Added ability to drag & drop media files for upload into assets 
 * Feature - **Switch **component - Click event: Now includes 'isChecked' paramter that indicates if Switch is Checked or Unchecked
-* Feature - **Checkbox **component - Changed event: Now includes 'isChecked' paramter that indicates if Switch is Checked or Unchecked
+* Feature - **Checkbox **component - Changed event: Now includes '_**isChecked**_' parameter that indicates if Switch is Checked or Unchecked
 * Bugfix - Fixed scrolling issue, in both Designer and Blocks-editor:  [http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3](http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3)
 * Feature - Added **EXPERIMENTAL LinedTextBox **component. This is same as TextBox component, however, it includes notepad like lines and is always multiline
 
