@@ -7,7 +7,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 ![](/assets/ab_icon.png) Oct. 11, 2017 [**Companion v3.21**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
 
 * Bugfix - **Chrome **latest update \(61\) introduced issue with drop-down position of pop-up menus. This was observed when in Design Editor. Issue resolved
-* Feature - **KitchenSink**: Now includes block \*\*IsKeyboardOpen
+* Feature - **KitchenSink**: Now includes block _**IsKeyboardOpen**_
   \*\*
 * Feature - **VideoPlayer**: Added **ControlsEnabled **peroperty / block. Allows you to show/hide the controls. By default, its set to enabled
 * Feature - **UI **- Added ability to preview media
