@@ -10,8 +10,8 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Feature - **KitchenSink**: Now includes block _**IsKeyboardOpen**_
   \*\*
 * Feature - **VideoPlayer**: Added **ControlsEnabled **_peroperty / block_. Allows you to show/hide the controls. By default, its set to enabled
-* Feature - **UI **- Added ability to preview media
-* Feature - **UI**: Added ability to drag & drop media files for upload into assets 
+* Feature - **UI **- Added ability to preview media - _**\(Thanks to Aaron Suarez for his contribution **_[_**HERE**_](https://github.com/mit-cml/appinventor-sources/pull/764)_**\)**_
+* Feature - **UI**: Added ability to drag & drop media files for upload into assets_** \(Thanks to Aaron Suarez for his contribution **_[_**HERE**_](https://github.com/mit-cml/appinventor-sources/pull/763)_**\)**_
 * Feature - **Switch **component - Click event: Now includes 'isChecked' paramter that indicates if Switch is Checked or Unchecked
 * Feature - **Checkbox **component - Changed event: Now includes '_**isChecked**_' parameter that indicates if Switch is Checked or Unchecked
 * Bugfix - Fixed scrolling issue, in both Designer and Blocks-editor:  [http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3](http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3)
