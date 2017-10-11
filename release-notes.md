@@ -2,6 +2,24 @@
 
 This page lists AppyBuilder Release dates / notes in reverse chronological order. Join Community here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
+
+
+![](/assets/ab_icon.png) Oct. 11, 2017 [**Companion v3.21**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold
+
+* Bugfix - **Chrome **latest update \(61\) introduced issue with drop-down position of pop-up menus. This was observed when in Design Editor. Issue resolved
+* Feature - **KitchenSink**: Now includes block **IsKeyboardOpen  **
+* Feature - **VideoPlayer**: Added **ControlsEnabled **peroperty / block. Allows you to show/hide the controls. By default, its set to enabled
+* Feature - **UI **- Added ability to preview media
+* Feature - **UI**: Added ability to drag & drop media files for upload into assets 
+* Feature - **Switch **component - Click event: Now includes 'isChecked' paramter that indicates if Switch is Checked or Unchecked
+* Feature - **Checkbox **component - Changed event: Now includes 'isChecked' paramter that indicates if Switch is Checked or Unchecked
+* Bugfix - Fixed scrolling issue, in both Designer and Blocks-editor:  http://community.appybuilder.com/t/please-fix-that-scroll-does-not-go-back-to-top/1246/3
+* Feature - Added **EXPERIMENTAL LinedTextBox **component. This is same as TextBox component, however, it includes notepad like lines and is always multiline
+
+
+
+---
+
 ![](/assets/ab_icon.png) Sept. 28, 2017 [**Companion v3.19**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold_** **_
 
 * Feature - **Label**: now has _Click_ events can be used to simulate tabs
