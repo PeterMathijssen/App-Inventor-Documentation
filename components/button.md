@@ -2,7 +2,7 @@
 
 Visible component with the ability to detect clicks. Many aspects of its appearance can be changed and whether it is clickable or enabled as well. It can be changed in the Designer or in the Blocks Editor.
 
-## **Events**
+#### **Events**
 
 * Click\(\): User tapped and released the button.
 
@@ -28,13 +28,13 @@ Visible component with the ability to detect clicks. Many aspects of its appeara
 
 ![](https://lh5.googleusercontent.com/nuea2ZrudMZenv3XSe55MwHnjFiFl25CP2HnFGJ5KLvdIZuTNbPEdEwgHbvzJJQSuKmKTf4xH8NzRJvwTJkQ1PZqoVh-l20e3n6mGm9EDDr698n36ufRHm60PKM6b6MmEiivbNjX)
 
-## **Methods**
+#### **Methods**
 
 * SetShadow: Place a blurred shadow underneath the text with the specified x, y, radius, color, \(e.g. -11,12,13,black\).
 
 ![](https://lh5.googleusercontent.com/Vq-s0VkIY25gPPev6mSdC69IhZUB_nKFkm3SAVaFYU3T7x-F2_j0mwjcvR-pzb-iA_eAEMdpPSFHXHpLAq1SE5X7cjoAAVLdD2HowRDtnrQbcZTzs-zEt0Op6yOxjbo-a7cYKhmC)
 
-## **Properties**
+#### **Properties**
 
 * BackgroundColor: Specifies and returns the button's background color. Also available in the Designer properties.
 
@@ -129,7 +129,4 @@ Visible component with the ability to detect clicks. Many aspects of its appeara
 ![](https://lh4.googleusercontent.com/NlLPXF0siute1L6dNtmh1VooRSBAGI90e4j6ULYjIvBVHgPWUyu2XhZOfpvMiwCMOem3GEyUFRDBzlyk7VUg8GBqR1LjuGzQ65Asvv81gMGxg30l1321GW3eUU4zTrVpDM487Yys)
 
 ![](https://lh3.googleusercontent.com/Ws1IhL8t1EqNkF-DXidN2c-WGrg4MAl3pbRLAF1iTxPhkeFJEC8mWpEvmGFhY5ykBprfMVZ9ZcZ8qTmUV3t4lDIgqJiRZaEE4PUyTGhRNrUok0HarFxn-CqCOgY8KjfBQsfl18fJ)
-
-  
-
 
