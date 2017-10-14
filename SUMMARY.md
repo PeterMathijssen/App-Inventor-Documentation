@@ -6,6 +6,7 @@
 * [Live Testing](live-testing.md)
 * [Components](components.md)
   * [Button](components/button.md)
+  * [Checkbox](components/checkbox.md)
   * [GalleryViewer](components/galleryviewer.md)
   * [Switch](components/switch.md)
   * [RatingBar](components/ratingbar.md)
