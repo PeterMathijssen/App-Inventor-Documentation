@@ -9,7 +9,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Browser bug fixes
 * Chrome browser performance update
 * Now **FREE **to everyone - no membership required. Just log into [http://Gold.AppyBuilder.com](http://Gold.AppyBuilder.com)
-* Forum community here: http://Community.AppyBuilder.com
+* For forum community please sign into here: [http://Community.AppyBuilder.com](http://Community.AppyBuilder.com)
 
 ---
 
