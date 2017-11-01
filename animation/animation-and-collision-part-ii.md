@@ -1,10 +1,12 @@
 
+# Animation & Collision Part II
 
 
+![](https://i1.wp.com/AppyBuilder.com/img/pixiibomb3.png) **By: [Pixii Bomb](http://community.appybuilder.com/t/admob-component-monetize-your-app-using-an-admob-banner-make-money/1313)**
+
+{% youtube %}https://www.youtube.com/watch?v=g3BxInGxesc{% endyoutube %}
 
 
-
-{% youtube %}https://www.youtube.com/watch?v=tGesV30FUc4{% endyoutube %}
 **TUTORIAL DIFFICULTY: Medium-Hard**  
 This is not an easy tutorial for beginner users. It is recommended that you already be familiar with Image Sprite properties such as: heading, speed and interval, as well as the Clock component. You should also know how to create multiple layers and transparent layers in Photoshop \(or your image software of choice\).
 
