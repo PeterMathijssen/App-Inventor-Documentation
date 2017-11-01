@@ -22,6 +22,9 @@
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
     * [Creating Splash Screen](creating-splash-screen.md)
     * [Adding Privacy Policy](adding-privacy-policy.md)
+  * [Animation](animation.md)
+    * Animation & Collision Part I
+    * [Animation & Collision Part II](animation/animation-and-collision-part-ii.md)
   * [Monetization](monetization.md)
     * [AdMob Banner](monetization/admob-monetization2.md)
     * [AdMob Interstitial](monetization/admob-interstitial.md)
