@@ -23,5 +23,9 @@ Project .ZIP Folder Contains:
 * Photoshop File: Map \(includes layers for Blockade Images and Coordinate Tiles\)
 * RPG Animation AppyBuilder .aia file
 
+**Join AppyBuilder forum community at: **http://Community.AppyBuilder.com
+
+
+
 
 
