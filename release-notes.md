@@ -4,7 +4,26 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) Oct 28, 2017 **Companion v3.22** - AppyBuilder Gold Support / Contribution? [**http://PayPal.me/AppyBuilder**](https://www.gitbook.com/book/appybuilder/reference/edit#) :o\)
+![](/assets/ab_icon.png) Nov 27, 2017 [**Companion v3.23**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
+
+_**Note**: Companion should shortly be available in Google Play Store \(link above\)_
+
+* **Screen: **Added padding to Screen for top, left, bottom, right. Padding can be specified as single number \(e.g. 5\), or 4 numbers \(e.g. 6,7,8,9 for top, left, bottom, right\)
+* **Arrangements: **Material Card. New property / block \(IsCard\) in Horizontal / Vertical Arrangement. If set to true, arrangement will be converted to Material Card
+* **OneSignalPush**: Added blocks for SubscriptionEnabled, VibrateEnabled, SoundEnabled
+* Fix messages in some non-English translations \(e.g. Chinese\)
+* Display an extension’s version in the help widget
+* Perofmance improvement: Prevent error checking on block during drag
+* **GalleryViewer**: added Thumbnail width, height in designer with default values
+* Make TitleVisible property to toggle title bar's visibility \(Credits to Ben - @moliata on GitHub\)
+
+![](/assets/androidCards2.png)
+
+
+
+---
+
+![](/assets/ab_icon.png) Oct 28, 2017 [**Companion v3.22**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - AppyBuilder Gold Support / Contribution? [**http://PayPal.me/AppyBuilder**](https://www.gitbook.com/book/appybuilder/reference/edit#) :o\)
 
 * Browser bug fixes
 * Chrome browser performance update
