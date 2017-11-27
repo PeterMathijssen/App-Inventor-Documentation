@@ -9,7 +9,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 _**Note**: Companion should shortly be available in Google Play Store \(link above\)_
 
 * **Screen: **Added padding to Screen for top, left, bottom, right. Padding can be specified as single number \(e.g. 5\), or 4 numbers \(e.g. 6,7,8,9 for top, left, bottom, right\)
-* **Arrangements: **Material Card. New property / block \(IsCard\) in Horizontal / Vertical Arrangement. If set to true, arrangement will be converted to Material Card
+* **Layout Arrangements: **Material Card representation. New property / block \(IsCard\) in Horizontal / Vertical Arrangement. If set to true, arrangement will be converted to Material Card
 * **OneSignalPush**: Added blocks for SubscriptionEnabled, VibrateEnabled, SoundEnabled
 * Fix messages in some non-English translations \(e.g. Chinese\)
 * Display an extension’s version in the help widget
@@ -18,8 +18,6 @@ _**Note**: Companion should shortly be available in Google Play Store \(link abo
 * Make TitleVisible property to toggle title bar's visibility \(Credits to Ben - @moliata on GitHub\)
 
 ![](/assets/androidCards2.png)
-
-
 
 ---
 
