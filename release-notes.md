@@ -15,7 +15,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **UX:** When deleting component, now displays GWT pop-up window
 * **Feature:** Added _**Click**_ event-block to all layout arrangements
 * **Feature:** Added _**LongClick**_ event-block to all layout arrangements
-* Feature: Added StatusBarColor block ![](/assets/statusBarColor.png) to Screen
+* Feature: Added StatusBarColor block ![](/assets/statusBarColor.png) to Screen. NOTE: Designer won't show color-change.
 * **Bug fix:** Updated ListView _**TextSize**_ so that it now can dynamically change text size
 * **Bug fix:** Updated ListViewCustom _**TextSize**_ so that it now can dynamically change text size
 * **Memory issues:** Performs memory management for loading images and reduces the Out Of Memory issues
@@ -23,8 +23,6 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 **\[1\]**
 
 ** **![](/assets/materialCard.png)
-
- 
 
 ---
 
