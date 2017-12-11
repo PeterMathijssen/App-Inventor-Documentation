@@ -4,6 +4,30 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png) Dec 11, 2017 [**Companion v3.24**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
+
+* **HorizontalArrangement:** Updated _**IsCard**_ \[1\]so that it now setups margins all around the border 
+* **VerticalArrangement:** Updated _**IsCard**_ \[1\]so that it now setups margins all around the border
+* **HorizonalArrangement:** For above, updated Card border background to match the Material Card color
+* **VerticalArrangement:** For above, updated Card border background to match the Material Card color
+* **Feature: **Arrangements now include UseRoundCorners block. If set to false, the Material Design card will use Rectangle corners, else Round Corners: ![](/assets/materialCard2.png)
+* **FTPManager:** Added _**DeleteFolder**_ block._** Can delete non-empty remote or local folders**_. For remote, use  /public\_html/folder1/folder2/... and for local use /folder1/folder2/... ![](/assets/ftpManager.png)
+* **UX:** When deleting component, now displays GWT pop-up window
+* **Feature:** Added _**Click**_ event-block to all layout arrangements
+* **Feature:** Added _**LongClick**_ event-block to all layout arrangements
+* Feature: Added StatusBarColor block ![](/assets/statusBarColor.png) to Screen
+* **Bug fix:** Updated ListView _**TextSize**_ so that it now can dynamically change text size
+* **Bug fix:** Updated ListViewCustom _**TextSize**_ so that it now can dynamically change text size
+* **Memory issues:** Performs memory management for loading images and reduces the Out Of Memory issues
+
+**\[1\]**
+
+** **![](/assets/materialCard.png)
+
+ 
+
+---
+
 ![](/assets/ab_icon.png) Nov 27, 2017 [**Companion v3.23**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
 
 * **Screen: **Added padding to Screen for top, left, bottom, right. Padding can be specified as single number \(e.g. 5\), or 4 numbers \(e.g. 6,7,8,9 for top, left, bottom, right\)

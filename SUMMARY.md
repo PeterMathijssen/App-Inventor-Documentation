@@ -33,4 +33,5 @@
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
 * [Extensions](extensions.md)
+* [Terms of Service](terms-of-service.md)
 
