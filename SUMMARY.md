@@ -22,6 +22,7 @@
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
     * [Creating Splash Screen](creating-splash-screen.md)
     * [Adding Privacy Policy](adding-privacy-policy.md)
+    * [Package Name](basic/package-name.md)
   * [Animation](animation.md)
     * [Animation & Collision Part I](animation/animation-and-collision-part-i.md)
     * [Animation & Collision Part II](animation/animation-and-collision-part-ii.md)
