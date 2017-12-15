@@ -6,6 +6,8 @@ This component can be used to provide information about network. The blocks for 
 
 ![](/assets/networkMgr1.png)
 
+
+
 **IsGPSEnabled**: Use this block to determine if GPS is enabled
 
 ![](/assets/networkMgr3.png)
