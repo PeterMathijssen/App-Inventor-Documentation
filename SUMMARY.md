@@ -17,6 +17,7 @@
   * [ListViewCustom](components/listviewcustom.md)
   * Image
   * [OneSignalPush](components/onesignalpush.md)
+  * [NetworkManager](components/networkmanager.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
