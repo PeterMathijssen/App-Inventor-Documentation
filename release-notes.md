@@ -36,7 +36,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * Perofmance improvement: Prevent error checking on block during drag
 * **GalleryViewer**: added Thumbnail width, height in designer with default values
 * Make TitleVisible property to toggle title bar's visibility \(Credits to Ben - @moliata on GitHub\)
-* **NetworkManager**: New component to get network information, such as:
+* **NetworkManager**: New component to get network information, such as below. See doc [HERE](https://help.appybuilder.com/components/networkmanager.html) for details
   * if connected through WiFi, mobile, ...
   * If GPS is on
   * Start GPS options
