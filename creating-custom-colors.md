@@ -1,4 +1,4 @@
 # Creating Custom Colors
 
-![](/assets/conCustomColors.png)
+![](/assets/conceptCustomColor.png)
 
