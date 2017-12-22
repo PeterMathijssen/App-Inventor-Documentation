@@ -1,4 +1,4 @@
 # Collision Detection
 
-![](/assets/conCollisionDetection.png)
+![](/assets/conceptCollisionDetection.png)
 
