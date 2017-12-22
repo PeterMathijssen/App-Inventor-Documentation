@@ -1,4 +1,4 @@
 # Movement With Sensors
 
-![](/assets/conMovementWithSensor.png)
+![](/assets/conceptMovementWithSensors.png)
 
