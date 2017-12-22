@@ -1,6 +1,6 @@
 # Adding Sound
 
-# ![](/assets/conceptAddingSound.png)
+# ![](/assets/conAddingSound.png)
 
 
 

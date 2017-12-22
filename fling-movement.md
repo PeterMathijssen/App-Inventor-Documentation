@@ -1,4 +1,4 @@
 # Fling Movement
 
-![](/assets/conceptFling.png)
+![](/assets/conFlingMovement.png)
 

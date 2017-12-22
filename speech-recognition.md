@@ -1,4 +1,4 @@
 # Speech Recognition
 
-![](/assets/conceptCard5.png)
+![](/assets/conSpeechRecognition.png)
 

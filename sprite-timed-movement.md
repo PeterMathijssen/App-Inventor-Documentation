@@ -1,4 +1,4 @@
 # Sprite Timed Movement
 
-![](/assets/conceptStartStopTimedMovement.png)
+![](/assets/conTimedMovement.png)
 

@@ -1,4 +1,4 @@
 # Shaking Phone
 
-![](/assets/conceptCard13.png)
+![](/assets/conShakingPhone.png)
 
