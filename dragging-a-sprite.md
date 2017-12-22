@@ -1,4 +1,4 @@
 # Dragging A Sprite
 
-![](/assets/conDraggingSprite.png)
+![](/assets/conceptDraggingSprite.png)
 
