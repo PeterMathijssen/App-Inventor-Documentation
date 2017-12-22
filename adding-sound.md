@@ -1,6 +1,6 @@
 # Adding Sound
 
-# ![](/assets/conceptCard4.png)
+# ![](/assets/conceptAddingSound.png)
 
 
 
