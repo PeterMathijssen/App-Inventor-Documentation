@@ -1,4 +1,4 @@
 # Movement With Buttons
 
-![](/assets/conMovementWithButtons.png)
+![](/assets/conceptMoveWithButtons.png)
 
