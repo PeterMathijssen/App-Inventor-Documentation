@@ -1,4 +1,4 @@
 # Multiple Screens
 
-![](/assets/conMultipleScreens.png)
+![](/assets/conceptMulipleScreens.png)
 
