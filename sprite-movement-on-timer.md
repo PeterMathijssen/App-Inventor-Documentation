@@ -1,6 +1,6 @@
 # Sprite Movement on Timer
 
-# ![](/assets/conSpriteMoveOnTimer.png)
+# ![](/assets/conceptMovementOnTimer.png)
 
 
 
