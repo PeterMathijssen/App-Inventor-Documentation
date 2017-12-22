@@ -1,4 +1,4 @@
 # Drawing on Canvas
 
-![](/assets/conDrawingOnCanvas.png)
+![](/assets/conceptDrawingOnCanvas.png)
 
