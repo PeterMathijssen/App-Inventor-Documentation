@@ -1,4 +1,4 @@
 # Random Numbers
 
-![](/assets/conceptCard6.png)
+![](/assets/conceptRandom.png)
 
