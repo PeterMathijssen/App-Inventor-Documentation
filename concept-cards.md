@@ -1,6 +1,6 @@
 # Concept Cards
 
-Concept Cards provide a quick way to learn new AppyBuilder code and concepts.
+AppyBuilder Concept Cards provide a quick way to learn new AppyBuilder code and concepts.
 
 Each of the cards can be printed out, folded in half, and used to prompt students to explore a concept in AppyBuilder such as Sprites, timers, sounds, movement, multi screens, making colors, etc.
 
