@@ -1,4 +1,4 @@
 # Random Numbers
 
-![](/assets/conRandomNumbers.png)
+![](/assets/conceptRandomNumbers.png)
 
