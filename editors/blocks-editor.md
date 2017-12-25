@@ -6,3 +6,7 @@ In design editor you visually select components and layout the apps screens layo
 
 ![](/assets/editor-2.png)
 
+![](/assets/blocksEditorGif.gif)
+
+
+
