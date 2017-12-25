@@ -3,6 +3,8 @@
 * [AppyBuilder Introduction](README.md)
 * [Release Notes](release-notes.md)
 * [AppyBuilder Editors](editors.md)
+  * [Design Editor](editors/designeditor.md)
+  * [Blocks Editor](editors/blocks-editor.md)
 * [Live Testing](live-testing.md)
 * [Components](components.md)
   * [Button](components/button.md)
