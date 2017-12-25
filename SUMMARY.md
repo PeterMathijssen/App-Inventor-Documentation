@@ -5,6 +5,7 @@
 * [AppyBuilder Editors](editors.md)
   * [Design Editor](editors/designeditor.md)
   * [Blocks Editor](editors/blocks-editor.md)
+  * [Components](editors/components.md)
 * [Live Testing](live-testing.md)
 * [Components](components.md)
   * [Button](components/button.md)
