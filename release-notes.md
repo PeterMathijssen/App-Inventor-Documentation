@@ -4,6 +4,21 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png) Dec 31, 2017 [**Companion v3.25**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
+
+* **Map Component**: New Integrated MIT latest Openstreet Map component. For more information, see [HERE](http://gold.appybuilder.com/reference/components/maps.html#Map). 
+  * Simple Map .aia that was developed by Evan from MIT can be found [HERE](http://AppyBuilder.com/tutorials/openstreet/MapsSimple.aia) \(NOTE: GPS location services needs to be turned on
+
+![](/assets/mapOpenStreet.png)
+
+* **MemoryInfo**: Non-visible sensor component to get information about device memory and SD Card
+
+![](/assets/memoryInfo2.png)
+
+---
+
+
+
 ![](/assets/ab_icon.png) Dec 11, 2017 [**Companion v3.24**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
 
 * **HorizontalArrangement:** Updated _**IsCard**_ \[1\]so that it now setups margins all around the border 
