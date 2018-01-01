@@ -21,6 +21,7 @@
   * Image
   * [OneSignalPush](components/onesignalpush.md)
   * [NetworkManager](components/networkmanager.md)
+  * [Openstreet Map](components/openstreet-map.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
