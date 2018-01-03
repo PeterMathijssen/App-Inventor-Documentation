@@ -10,6 +10,7 @@ This is not a tutorial for beginner users. I would highly recommend reviewing th
 **VIDEO DESCRIPTION:**  
 This video combines previous video tutorials \(Push Notification, TinyDB & RewardedVideo\) into one concept. The app will ask the user to create a new account if it’s the user’s first time opening the app. You will learn how to retrieve and insert data to Firebase from your app. The user will create an account \(username and password\) which will give them a unique userID. Their userID is stored on a TinyDB on their phone, for quick login. Once the user has successfully logged in, they can begin earning points by watching RewardedVideo ads. The points are stored in Firebase under the user’s 13-digit userID.
 
+Download source from [HERE](http://community.appybuilder.com/t/firebase-using-login-rewardedvideo-for-points-system/3606)
 
 {% youtube %}https://www.youtube.com/watch?v=t34IaQjTEkk{% endyoutube %}
 
