@@ -38,6 +38,7 @@
     * [Increasing  Monetization Revenue](monetization/increasing-monetization-revenue.md)
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
+  * [Firebase - Advanced](firebase-advanced.md)
 * [Extensions](extensions.md)
 * [Terms of Service](terms-of-service.md)
 * [Concept Cards](concept-cards.md)
