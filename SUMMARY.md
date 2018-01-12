@@ -36,7 +36,6 @@
     * [AdMob Interstitial](monetization/admob-interstitial.md)
     * [AdMob Rewarded Video](monetization/admob-rewarded-video.md)
     * [Increasing  Monetization Revenue](monetization/increasing-monetization-revenue.md)
-    * [AdMob Best Practices](monetization/admob-best-practices.md)
   * [Using RadioButtons](using-radiobuttons.md)
   * [keystore](keystore.md)
   * [Firebase - Advanced](firebase-advanced.md)
