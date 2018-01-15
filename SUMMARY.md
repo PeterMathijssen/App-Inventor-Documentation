@@ -73,21 +73,20 @@
       * [NetworkManager](components/reference/connectivity/networkmanager.md)
       * [Web](components/reference/connectivity/web.md)
       * [WiFiManager](components/reference/connectivity/wifimanager.md)
-    * [LegoMindStorm](components/reference/legomindstorm.md)
-      * [Ev3ColorSensor](components/reference/legomindstorm/ev3colorsensor.md)
-      * Ev3Commands
-      * Ev3GyroSensor
-      * Ev3Motors
-      * Ev3Sound
-      * [Ev3TouchSensor](components/reference/legomindstorm/ev3touchsensor.md)
-      * [Ev3UI](components/reference/legomindstorm/ev3ui.md)
-      * [Ev3UltraSonicSensor](components/reference/legomindstorm/ev3ultrasonicsensor.md)
-      * [NxtColorSensor](components/reference/legomindstorm/nxtcolorsensor.md)
-      * [NxtDirectCommand](components/reference/legomindstorm/nxtdirectcommand.md)
-      * [NxtDrive](components/reference/legomindstorm/nxtdrive.md)
+    * [LegoMindStorms](components/reference/legomindstorms.md)
+      * [Ev3ColorSensor](components/reference/legomindstorms/ev3colorsensor.md)
+      * [Ev3Commands](components/reference/legomindstorms/ev3commands.md)
+      * [Ev3GyroSensor](components/reference/legomindstorms/ev3gyrosensor.md)
+      * [Ev3Motors](components/reference/legomindstorms/ev3motors.md)
+      * [Ev3Sound](components/reference/legomindstorms/ev3sound.md)
+      * [Ev3TouchSensor](components/reference/legomindstorms/ev3touchsensor.md)
+      * [Ev3UI](components/reference/legomindstorms/ev3ui.md)
+      * Ev3UltraSonicSensor
+      * NxtDirectCommand
+      * NxtDrive
       * NxtLightSensor
       * NxtTouchSensor
-      * [NxtSoundSensor](components/reference/legomindstorm/nxtsoundsensor.md)
+      * Ev3ColorSensor
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
