@@ -69,10 +69,25 @@
       * [YandexTranslate](components/reference/media/yandextranslate.md)
     * [Connectivity](components/reference/connectivity.md)
       * [ActivityStarter](components/reference/connectivity/activitystarter.md)
-      * BluetoothClient
-      * NetworkManager
-      * Web
-      * WiFiManager
+      * [BluetoothClient](components/reference/connectivity/bluetoothclient.md)
+      * [NetworkManager](components/reference/connectivity/networkmanager.md)
+      * [Web](components/reference/connectivity/web.md)
+      * [WiFiManager](components/reference/connectivity/wifimanager.md)
+    * [LegoMindStorm](components/reference/legomindstorm.md)
+      * [Ev3ColorSensor](components/reference/legomindstorm/ev3colorsensor.md)
+      * Ev3Commands
+      * Ev3GyroSensor
+      * Ev3Motors
+      * Ev3Sound
+      * [Ev3TouchSensor](components/reference/legomindstorm/ev3touchsensor.md)
+      * [Ev3UI](components/reference/legomindstorm/ev3ui.md)
+      * [Ev3UltraSonicSensor](components/reference/legomindstorm/ev3ultrasonicsensor.md)
+      * [NxtColorSensor](components/reference/legomindstorm/nxtcolorsensor.md)
+      * [NxtDirectCommand](components/reference/legomindstorm/nxtdirectcommand.md)
+      * [NxtDrive](components/reference/legomindstorm/nxtdrive.md)
+      * NxtLightSensor
+      * NxtTouchSensor
+      * [NxtSoundSensor](components/reference/legomindstorm/nxtsoundsensor.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
