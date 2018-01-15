@@ -53,14 +53,14 @@
       * [Polygon](components/reference/maps/polygon.md)
       * [Rectangle](components/reference/maps/rectangle.md)
     * [Media](components/reference/media.md)
-      * Camcorder
+      * [Camcorder](components/reference/media/camcorder.md)
       * [Camera](components/reference/media/camera.md)
       * [ImagePicker](components/reference/media/imagepicker.md)
       * [Player](components/reference/media/player.md)
       * [Sound](components/reference/media/sound.md)
       * [SoundRecorder](components/reference/media/soundrecorder.md)
       * [SpeechRecognizer](components/reference/media/speechrecognizer.md)
-      * TextToSpeech
+      * [TextToSpeech](components/reference/media/texttospeech.md)
       * [VideoPlayer](components/reference/media/videoplayer.md)
       * [YandexTranslate](components/reference/media/yandextranslate.md)
     * [Connectivity](components/reference/connectivity.md)
