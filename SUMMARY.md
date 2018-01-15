@@ -8,10 +8,6 @@
   * [Components](editors/components.md)
 * [Live Testing](live-testing.md)
 * [Components](components.md)
-  * [SQLite](components/sqlite.md)
-  * [OneSignalPush](components/onesignalpush.md)
-  * [NetworkManager](components/networkmanager.md)
-  * [Openstreet Map](components/openstreet-map.md)
   * [Reference](components/reference.md)
     * [User Interface](components/reference/user-interface.md)
       * [Button](components/reference/user-interface/button.md)
@@ -51,7 +47,7 @@
     * [Maps](components/reference/maps.md)
       * [Circle](components/reference/maps/circle.md)
       * [FeatureCollection](components/reference/maps/featurecollection.md)
-      * LineString
+      * [LineString](components/reference/maps/linestring.md)
       * [Map](components/reference/maps/map.md)
       * [Marker](components/reference/maps/marker.md)
       * [Polygon](components/reference/maps/polygon.md)
@@ -94,6 +90,7 @@
       * FusionTableControl
       * TinyDB
       * TinyWebDB
+      * [SQLite](components/reference/storage/sqlite.md)
     * [Sensors](components/reference/sensors.md)
       * [Accelerometersensor](components/reference/sensors/accelerometersensor.md)
       * BarcodeScanner
@@ -113,6 +110,8 @@
       * [SoundSensor](components/reference/sensors/soundsensor.md)
       * [TemperatureSensor](components/reference/sensors/temperaturesensor.md)
 * [Tutorials](tutorials.md)
+  * [Openstreet Map](components/openstreet-map.md)
+  * [OneSignalPush](components/onesignalpush.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
     * [Creating Splash Screen](creating-splash-screen.md)
