@@ -85,28 +85,28 @@
       * Ev3ColorSensor
     * [Storage](components/reference/storage.md)
       * [File](components/reference/storage/file.md)
-      * FirebaseDB
-      * FTPManager
-      * FusionTableControl
-      * TinyDB
+      * [FirebaseDB](components/reference/storage/firebasedb.md)
+      * [FTPManager](components/reference/storage/ftpmanager.md)
+      * [FusionTableControl](components/reference/storage/fusiontablecontrol.md)
+      * [TinyDB](components/reference/storage/tinydb.md)
       * [SQLite](components/reference/storage/sqlite.md)
       * [tinywebdb](components/reference/storage/tinywebdb.md)
     * [Sensors](components/reference/sensors.md)
       * [Accelerometersensor](components/reference/sensors/accelerometersensor.md)
-      * BarcodeScanner
-      * BatteryManager
-      * Clock
-      * Gyroscopesensor
-      * LightSensor
+      * [BarcodeScanner](components/reference/sensors/barcodescanner.md)
+      * [BatteryManager](components/reference/sensors/batterymanager.md)
+      * [Clock](components/reference/sensors/clock.md)
+      * [Gyroscopesensor](components/reference/sensors/gyroscopesensor.md)
+      * [LightSensor](components/reference/sensors/lightsensor.md)
       * [LocationSensor](components/reference/sensors/locationsensor.md)
-      * MagneticFieldSensor
-      * MemoryInfo
-      * NearField
+      * [MagneticFieldSensor](components/reference/sensors/magneticfieldsensor.md)
+      * [MemoryInfo](components/reference/sensors/memoryinfo.md)
+      * [NearField](components/reference/sensors/nearfield.md)
       * [OrientationSensor](components/reference/sensors/orientationsensor.md)
       * [Pedometer](components/reference/sensors/pedometer.md)
-      * ProximitySensor
-      * PressureSensor
-      * ProximitySensor
+      * [ProximitySensor](components/reference/sensors/proximitysensor.md)
+      * [PressureSensor](components/reference/sensors/pressuresensor.md)
+      * [ProximitySensor](components/reference/sensors/proximitysensor.md)
       * [SoundSensor](components/reference/sensors/soundsensor.md)
       * [TemperatureSensor](components/reference/sensors/temperaturesensor.md)
 * [Tutorials](tutorials.md)
