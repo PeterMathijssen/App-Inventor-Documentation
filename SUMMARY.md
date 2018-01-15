@@ -33,6 +33,25 @@
       * [Table Arrangement](components/reference/layout/table-arrangement.md)
       * [Vertical Arrangement](components/reference/layout/vertical-arrangement.md)
       * [Vertical Scroll Arrangement](components/reference/layout/vertical-scroll-arrangement.md)
+    * [Maps](components/reference/maps.md)
+      * [Circle](components/reference/maps/circle.md)
+      * [FeatureCollection](components/reference/maps/featurecollection.md)
+      * LineString
+      * [Map](components/reference/maps/map.md)
+      * [Marker](components/reference/maps/marker.md)
+      * [Polygon](components/reference/maps/polygon.md)
+      * Rectangle
+    * [Media](components/reference/media.md)
+      * Camcorder
+      * [Camera](components/reference/media/camera.md)
+      * [ImagePicker](components/reference/media/imagepicker.md)
+      * [Player](components/reference/media/player.md)
+      * [Sound](components/reference/media/sound.md)
+      * [SoundRecorder](components/reference/media/soundrecorder.md)
+      * [SpeechRecognizer](components/reference/media/speechrecognizer.md)
+      * TextToSpeech
+      * [VideoPlayer](components/reference/media/videoplayer.md)
+      * [YandexTranslate](components/reference/media/yandextranslate.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
