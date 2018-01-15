@@ -67,6 +67,12 @@
       * TextToSpeech
       * [VideoPlayer](components/reference/media/videoplayer.md)
       * [YandexTranslate](components/reference/media/yandextranslate.md)
+    * [Connectivity](components/reference/connectivity.md)
+      * [ActivityStarter](components/reference/connectivity/activitystarter.md)
+      * BluetoothClient
+      * NetworkManager
+      * Web
+      * WiFiManager
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
