@@ -87,6 +87,31 @@
       * NxtLightSensor
       * NxtTouchSensor
       * Ev3ColorSensor
+    * [Storage](components/reference/storage.md)
+      * [File](components/reference/storage/file.md)
+      * FirebaseDB
+      * FTPManager
+      * FusionTableControl
+      * TinyDB
+      * TinyWebDB
+    * [Sensors](components/reference/sensors.md)
+      * [Accelerometersensor](components/reference/sensors/accelerometersensor.md)
+      * BarcodeScanner
+      * BatteryManager
+      * Clock
+      * Gyroscopesensor
+      * LightSensor
+      * [LocationSensor](components/reference/sensors/locationsensor.md)
+      * MagneticFieldSensor
+      * MemoryInfo
+      * NearField
+      * [OrientationSensor](components/reference/sensors/orientationsensor.md)
+      * [Pedometer](components/reference/sensors/pedometer.md)
+      * ProximitySensor
+      * PressureSensor
+      * ProximitySensor
+      * [SoundSensor](components/reference/sensors/soundsensor.md)
+      * [TemperatureSensor](components/reference/sensors/temperaturesensor.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
