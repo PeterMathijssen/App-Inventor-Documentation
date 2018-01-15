@@ -25,6 +25,8 @@
   * [Reference](components/reference.md)
     * [Drawing and Animation](components/reference/drawing-and-animation.md)
       * [ball](components/reference/drawing-and-animation/ball.md)
+      * [Canvas](components/reference/drawing-and-animation/canvas.md)
+      * [Image Sprite](components/reference/drawing-and-animation/image-sprite.md)
 * [Tutorials](tutorials.md)
   * [Basic](basic.md)
     * [Simulating Progress Bar](basic/simulating-progress-bar.md)
