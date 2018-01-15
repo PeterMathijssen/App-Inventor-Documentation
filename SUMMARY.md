@@ -51,7 +51,7 @@
       * [Map](components/reference/maps/map.md)
       * [Marker](components/reference/maps/marker.md)
       * [Polygon](components/reference/maps/polygon.md)
-      * Rectangle
+      * [Rectangle](components/reference/maps/rectangle.md)
     * [Media](components/reference/media.md)
       * Camcorder
       * [Camera](components/reference/media/camera.md)
@@ -89,8 +89,8 @@
       * FTPManager
       * FusionTableControl
       * TinyDB
-      * TinyWebDB
       * [SQLite](components/reference/storage/sqlite.md)
+      * [tinywebdb](components/reference/storage/tinywebdb.md)
     * [Sensors](components/reference/sensors.md)
       * [Accelerometersensor](components/reference/sensors/accelerometersensor.md)
       * BarcodeScanner
