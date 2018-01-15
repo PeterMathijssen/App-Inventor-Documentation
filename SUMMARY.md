@@ -77,12 +77,12 @@
       * [Ev3Sound](components/reference/legomindstorms/ev3sound.md)
       * [Ev3TouchSensor](components/reference/legomindstorms/ev3touchsensor.md)
       * [Ev3UI](components/reference/legomindstorms/ev3ui.md)
-      * Ev3UltraSonicSensor
-      * NxtDirectCommand
-      * NxtDrive
-      * NxtLightSensor
-      * NxtTouchSensor
-      * Ev3ColorSensor
+      * [Ev3UltraSonicSensor](components/reference/legomindstorms/ev3ultrasonicsensor.md)
+      * [NxtDirectCommands](components/reference/legomindstorms/nxtdirectcommands.md)
+      * [NxtDrive](components/reference/legomindstorms/nxtdrive.md)
+      * [NxtLightSensor](components/reference/legomindstorms/nxtlightsensor.md)
+      * [NxtTouchSensor](components/reference/legomindstorms/nxttouchsensor.md)
+      * [Ev3ColorSensor](components/reference/legomindstorms/ev3colorsensor.md)
     * [Storage](components/reference/storage.md)
       * [File](components/reference/storage/file.md)
       * [FirebaseDB](components/reference/storage/firebasedb.md)
@@ -90,7 +90,7 @@
       * [FusionTableControl](components/reference/storage/fusiontablecontrol.md)
       * [TinyDB](components/reference/storage/tinydb.md)
       * [SQLite](components/reference/storage/sqlite.md)
-      * [tinywebdb](components/reference/storage/tinywebdb.md)
+      * [TinyWebDB](components/reference/storage/tinywebdb.md)
     * [Sensors](components/reference/sensors.md)
       * [Accelerometersensor](components/reference/sensors/accelerometersensor.md)
       * [BarcodeScanner](components/reference/sensors/barcodescanner.md)
