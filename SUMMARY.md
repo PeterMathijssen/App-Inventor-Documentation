@@ -17,23 +17,23 @@
       * [FloatingButton](components/reference/user-interface/floatingbutton.md)
       * [GalleryViewer](components/reference/user-interface/galleryviewer.md)
       * [GridView](components/reference/user-interface/gridview.md)
-      * Image
-      * Label
-      * ListPicker
-      * ListPickerCustom
-      * ListView
-      * ListViewCustom
-      * Notifier
-      * PasswordTextBox
-      * ProgressBar
-      * RatingBar
-      * Slider
-      * Spinner
-      * Switch
-      * TextBox
-      * TimerPicker
-      * Toggler
-      * WebViewer
+      * [Image](components/reference/user-interface/image.md)
+      * [Label](components/reference/user-interface/label.md)
+      * [ListPicker](components/reference/user-interface/listpicker.md)
+      * [ListPickerCustom](components/reference/user-interface/listpickercustom.md)
+      * [ListView](components/reference/user-interface/listview.md)
+      * [ListViewCustom](components/reference/user-interface/listviewcustom.md)
+      * [Notifier](components/reference/user-interface/notifier.md)
+      * [PasswordTextBox](components/reference/user-interface/passwordtextbox.md)
+      * [ProgressBar](components/reference/user-interface/progressbar.md)
+      * [RatingBar](components/reference/user-interface/ratingbar.md)
+      * [Slider](components/reference/user-interface/slider.md)
+      * [Spinner](components/reference/user-interface/spinner.md)
+      * [Switch](components/reference/user-interface/switch.md)
+      * [TextBox](components/reference/user-interface/textbox.md)
+      * [Toggler](components/reference/user-interface/toggler.md)
+      * [WebViewer](components/reference/user-interface/webviewer.md)
+      * [TimePicker](components/reference/user-interface/timepicker.md)
     * [Layout](components/reference/layout.md)
       * [Horizontal Arrangement](components/reference/layout/horizontal-arrangement.md)
       * [Horizontal Scroll Arrangement](components/reference/layout/horizontal-scroll-arrangement.md)
