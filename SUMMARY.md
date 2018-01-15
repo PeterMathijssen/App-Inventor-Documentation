@@ -11,12 +11,12 @@
   * [Reference](components/reference.md)
     * [User Interface](components/reference/user-interface.md)
       * [Button](components/reference/user-interface/button.md)
-      * Checkbox
-      * Chronometer
-      * DatePicker
-      * FloatingButton
-      * GalleryViewer
-      * GridView
+      * [Checkbox](components/reference/user-interface/checkbox.md)
+      * [Chronometer](components/reference/user-interface/chronometer.md)
+      * [DatePicker](components/reference/user-interface/datepicker.md)
+      * [FloatingButton](components/reference/user-interface/floatingbutton.md)
+      * [GalleryViewer](components/reference/user-interface/galleryviewer.md)
+      * [GridView](components/reference/user-interface/gridview.md)
       * Image
       * Label
       * ListPicker
