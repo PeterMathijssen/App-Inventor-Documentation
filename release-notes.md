@@ -10,9 +10,12 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 * **Slider**: Fixed bug. When ThumbEnabled was set to false, Slider Thumb was disappearing 
 * **LinedTextBox: **Moved from Experimental to User Interface category
 
+* **UI/UX:** Logo update - \(\_Thanks to Peter Mathijssen for his work\) 
+
 * **Extension: **Bug fix. UsesPermissions annotation with empty string was resulting in invalid manifest
 
 * **Label** - feature: Added ReadMore property / block. If set TRUE, it will make automatically make the Label expandable and collapsable \(_**Thanks to Andres Cotes for his input**_\)
+
 * ![](/assets/labelReadMore.png) ![](/assets/readmore2.png)
 
 ---
