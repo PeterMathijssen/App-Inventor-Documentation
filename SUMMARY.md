@@ -109,6 +109,7 @@
       * [ProximitySensor](components/reference/sensors/proximitysensor.md)
       * [SoundSensor](components/reference/sensors/soundsensor.md)
       * [TemperatureSensor](components/reference/sensors/temperaturesensor.md)
+    * [Social](components/reference/social.md)
 * [Tutorials](tutorials.md)
   * [Openstreet Map](components/openstreet-map.md)
   * [OneSignalPush](components/onesignalpush.md)
