@@ -4,7 +4,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
-![](/assets/ab_icon.png) Jan 16, 2018 [**Companion v3.26**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) [** **](https://www.gitbook.com/book/appybuilder/reference/edit#)- AppyBuilder needs your support: [http://AppyBuilder.com/appybuildersupport.html](https://www.gitbook.com/book/appybuilder/reference/edit#)
+![](/assets/ab_icon.png) Jan 16, 2018 [**Companion v3.26**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) 
 
 * CloudDB Component: New. EXPERIMENTAL -  Integrated CloudDB, allowing you to store / retrieve data from cloud server
 * Label - feature: Added ReadMore property / block. If set TRUE, it will make automatically make the Label expandable and collapsable
@@ -16,7 +16,7 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 [http://AppyBuilder.com/appybuildersupport.html](https://www.gitbook.com/book/appybuilder/reference/edit#)
 
-![](/assets/ab_icon.png) Dec 31, 2017 [**Companion v3.25**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
+![](/assets/ab_icon.png) Dec 31, 2017 [**Companion v3.25**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) 
 
 **Map Component**: New Integrated MIT latest Openstreet Map component. For more information, see [HERE](http://gold.appybuilder.com/reference/components/maps.html#Map).
 
