@@ -4,9 +4,21 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 ---
 
+![](/assets/ab_icon.png) Jan 16, 2018 [**Companion v3.2**](https://www.gitbook.com/book/appybuilder/reference/edit#)6- AppyBuilder needs your support: [http://AppyBuilder.com/appybuildersupport.html](https://www.gitbook.com/book/appybuilder/reference/edit#)
+
+* CloudDB Component: New. EXPERIMENTAL -  Integrated CloudDB, allowing you to store / retrieve data from cloud server
+* Label - feature: Added ReadMore property / block. If set TRUE, it will make automatically make the Label expandable and collapsable
+*  ![](/assets/labelReadMore.png) ![](/assets/readmore2.png)
+
+---
+
+**AppyBuilder needs your support:**
+
+[http://AppyBuilder.com/appybuildersupport.html](https://www.gitbook.com/book/appybuilder/reference/edit#)
+
 ![](/assets/ab_icon.png) Dec 31, 2017 [**Companion v3.25**](https://play.google.com/store/apps/details?id=com.appybuilder.companiongold) - **AppyBuilder needs your support:** [http://AppyBuilder.com/appybuildersupport.html](http://appybuilder.com/appybuildersupport.html)
 
-**Map Component**: New Integrated MIT latest Openstreet Map component. For more information, see [HERE](http://gold.appybuilder.com/reference/components/maps.html#Map). 
+**Map Component**: New Integrated MIT latest Openstreet Map component. For more information, see [HERE](http://gold.appybuilder.com/reference/components/maps.html#Map).
 
 * * Simple Map .aia that was developed by Evan from MIT can be found [HERE](http://AppyBuilder.com/tutorials/openstreet/MapsSimple.aia) \(NOTE: GPS location services needs to be turned on
 
