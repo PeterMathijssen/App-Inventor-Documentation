@@ -8,7 +8,10 @@ This page lists AppyBuilder Release dates / notes in reverse chronological order
 
 * **CloudDB** Component: New. EXPERIMENTAL -  Integrated CloudDB, allowing you to store / retrieve data from cloud server
 * **Slider**: Fixed bug. When ThumbEnabled was set to false, Slider Thumb was disappearing 
+* **LinedTextBox: **Moved from Experimental to User Interface category
+
 * **Extension: **Bug fix. UsesPermissions annotation with empty string was resulting in invalid manifest
+
 * **Label** - feature: Added ReadMore property / block. If set TRUE, it will make automatically make the Label expandable and collapsable \(_**Thanks to Andres Cotes for his input**_\)
 * ![](/assets/labelReadMore.png) ![](/assets/readmore2.png)
 
