@@ -1,4 +1,4 @@
-# SQLite Component
+# SQLite
 
 SQLite component can be used to interface with the Android device built-in SQLite Relational Database Management System \(RDMBS\). Using this component, you'll be able to create complex data structures and create parent-child tables \(e.g. employer, employees\) and query data from 1 or multiple tables by joining tables together.
 
