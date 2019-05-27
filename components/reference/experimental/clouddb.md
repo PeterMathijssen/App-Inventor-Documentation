@@ -1,6 +1,6 @@
 # CloudDB
 
-Non-visible component allowing you to store data on a Internet connected database server (using Redis software). This allows the users of your App to share data with each other. By default data will be stored in a server maintained by AppyBuilder, however you can setup and run your own server. Set the "RedisServer" property and "RedisPort" Property to access your own server.
+Non-visible component allowing you to store data on a Internet connected database server (using Redis software). This allows the users of your App to share data with each other. By default data will be stored in a server maintained by App Inventor, however you can setup and run your own server. Set the "RedisServer" property and "RedisPort" Property to access your own server.
 
 ---
 
