@@ -1,13 +1,40 @@
-# Switch Component
+# Switch
 
-A Switch is a User Interface two-state toggle component that can select between two options. The user may drag the "thumb" back and forth to choose the selected option, or simply tap to toggle as if it were a checkbox. 
+Switch components can detect user taps and can change their boolean state in response. They are identical to Checkboxes except in appearance.
 
-This component includes Designer properties that allows for changing the default Text, TrackColor, ThumbColor, etc. It also includes blocks and events for capturing user clicks. Using the Click event, allows you to change properties such as Text, and Thumb/Track colors:
+Switches have an on (true) state and an off (false) state. A switch component raises an event when the user taps it to toggle between states.
 
+## Properties
 
+### BackgroundColor
+Color for switch background.
 
-To implement the logic, we use blocks shown below. The Click event-block is used to capture taps. The Checked block is used to determine the Switch state \(checked or not checked\). IF -ELSE control-block is used to change Text, ThumbColor and TrackColor
-
-
-
-
+### Enabled
+If set, user can switch to change state and trigger event.
+### Height
+Switch height (y-size).
+### Width
+Switch width (x-size).
+### On
+True if the switch is in the On state, false otherwise.
+### Text
+Text to display on switch.
+### TextColor
+Color for switch text.
+### ThumbColorActive
+Color of the switch button when the switch is in the On state.
+### ThumbColorInactive
+Color of the switch button when the switch is in the Off state.
+### TrackColorActive
+Color of the switch slider when the switch is in the On state.
+### TrackColorInactive
+Color of the switch slider when the switch is in the Off state.
+### Visible
+If set, switch is visible.
+## Events
+### Changed()
+User change the state of the switch from On to Off or back.
+### GotFocus()
+Check box became the focused component.
+### LostFocus()
+Check box stopped being the focused component.
